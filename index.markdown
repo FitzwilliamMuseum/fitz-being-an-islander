@@ -8,10 +8,10 @@ title: 'Being an Islander'
 
 <div class="section" id="holding">
   <div class="intro col-md-12">
-  <a href="https://www.fitzmuseum.cam.ac.uk"><img src="https://beta.fitz.ms/images/logos/Fitz_logo_white.png" width="150" alt="Fitz logo" /></a>
+  <a href="https://www.fitzmuseum.cam.ac.uk"><img src="https://beta.fitz.ms/images/logos/Fitz_logo_white.png" width="150" alt="Fitz logo" /></a>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/StavrosNiarchosFoundation-logo_%282013%29.svg/352px-StavrosNiarchosFoundation-logo_%282013%29.svg.png" />
   <h1>{{page.title}}</h1>
   <p>Art and Identity of the large Mediterranean Islands</p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/StavrosNiarchosFoundation-logo_%282013%29.svg/352px-StavrosNiarchosFoundation-logo_%282013%29.svg.png" />
+
   </div>
 </div>
 <div id="player">
