@@ -11,10 +11,11 @@ title: 'Being an Islander'
   <a href="https://www.fitzmuseum.cam.ac.uk"><img src="https://beta.fitz.ms/images/logos/Fitz_logo_white.png" width="150" alt="Fitz logo" /></a>
   <h1>{{page.title}}</h1>
   <p>Art and Identity of the large Mediterranean Islands</p>
+
   </div>
 </div>
 <div id="player">
-    <audio autoplay >
+    <audio autoplay hidden loop>
      <source src="{{ site.baseurl }}/mp3/sea.mp3" type="audio/mpeg">
                 If you're reading this, audio isn't supported.
     </audio>
