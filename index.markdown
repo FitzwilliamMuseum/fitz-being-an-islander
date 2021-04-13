@@ -15,7 +15,7 @@ title: 'Being an Islander'
   </div>
 </div>
 <div id="player">
-    <audio autoplay hidden loop>
+    <audio autoplay hidden>
      <source src="{{ site.baseurl }}/mp3/sea.mp3" type="audio/mpeg">
                 If you're reading this, audio isn't supported.
     </audio>
