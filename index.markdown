@@ -8,7 +8,7 @@ title: 'Being an Islander'
 
 <div class="section pp-scrollable" id="holding">
   <div class="intro col-md-12 my-5">
-    <a href="https://www.fitzmuseum.cam.ac.uk"><img src="https://beta.fitz.ms/images/logos/Fitz_logo_white.png" width="150" alt="Fitz logo" class="img-fluid"/></a>
+    <a href="https://www.fitzmuseum.cam.ac.uk"><img src="https://beta.fitz.ms/images/logos/Fitz_logo_white.png" width="150" alt="Fitzwilliam Museum logo" class="img-fluid"/></a>
      <h1>
       {{page.title}}
     </h1>
@@ -35,9 +35,9 @@ title: 'Being an Islander'
 
 <div class="section" id="sponsors">
   <div class="col-md-12 justify-content-center">
-  <img src="{{ site.baseurl }}/images/leventis.png" class="img-fluid" mb-2 mr-2/>
-  <img src="{{ site.baseurl }}/images/StavrosNiarchosFoundation.png" class="img-fluid mr-2 mb-2"/>
-  <img src="{{ site.baseurl }}/images/cyprus.png" class="img-fluid mr-2 mb-2" />
+  <img src="{{ site.baseurl }}/images/leventis.png" alt="The Leventis Foundation Logo" class="img-fluid mb-2 mr-2" />
+  <img src="{{ site.baseurl }}/images/StavrosNiarchosFoundation.png" alt="Stavros Niarchos logo" class="img-fluid mr-2 mb-2"/>
+  <img src="{{ site.baseurl }}/images/cyprus.png" alt="The Cypriot Embassy logo" class="img-fluid mr-2 mb-2" />
 
   </div>
   <div class="row">
