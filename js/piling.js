@@ -4,7 +4,7 @@ $(document).ready(function() {
     */
     $('#pagepiling').pagepiling({
       menu: '#menu',
-      verticalCentered: (default true)
+      verticalCentered: true,
       anchors: ['introduction', 'sponsors'],
       navigation: {
         'position': 'right',
