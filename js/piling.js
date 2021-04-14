@@ -4,10 +4,10 @@ $(document).ready(function() {
     */
     $('#pagepiling').pagepiling({
       menu: '#menu',
-      anchors: ['introduction', 'background', 'map-stan', 'details'],
+      anchors: ['introduction', 'sponsors'],
       navigation: {
         'position': 'right',
-        'tooltips': ['Introduction', 'Background', 'Map', 'Details']
+        'tooltips': ['Introduction', 'Sponsors']
       },
       afterRender: function(){
         $('#pp-nav').addClass('custom');
