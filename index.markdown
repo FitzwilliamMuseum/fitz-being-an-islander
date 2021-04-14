@@ -20,7 +20,7 @@ title: 'Being an Islander'
     <div class="col-md-12">
 
     </div>
-    <button id="button">
+    <button id="button" class="btn btn-outline-dark" >
       <i class="fas fa-volume-up"></i>
     </button>
 </div>
