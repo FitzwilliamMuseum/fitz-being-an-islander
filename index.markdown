@@ -11,9 +11,8 @@ title: 'Being an Islander'
   <a href="https://www.fitzmuseum.cam.ac.uk"><img src="https://beta.fitz.ms/images/logos/Fitz_logo_white.png" width="150" alt="Fitz logo" class="img-fluid"/></a>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/StavrosNiarchosFoundation-logo_%282013%29.svg/352px-StavrosNiarchosFoundation-logo_%282013%29.svg.png" class="img-fluid"/>
   <h1>{{page.title}}</h1>
   <p>Art and Identity of the large Mediterranean Islands</p>
-  <button type="button" class="btn btn-outline-secondary align-center">
-     <a href="https://tickets.museums.cam.ac.uk/account/create">Sign up for news</a>
-   </button>
+  <p>   <a href="https://tickets.museums.cam.ac.uk/account/create">Sign up for news</a></p>
+
   <button id="button">
     <i class="fas fa-volume-up"></i>
   </button>
@@ -24,4 +23,5 @@ title: 'Being an Islander'
                   If you're reading this, audio isn't supported.
       </audio>
   </div>
+
 </div>

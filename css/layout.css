@@ -8,10 +8,15 @@ form,fieldset,input,textarea,p,blockquote,th,td {
 /* Defining each section background and styles
 * --------------------------------------- */
 #holding{
-  background-image: url(https://fitz-cms-images.s3.eu-west-2.amazonaws.com/paphos_sunset.jpg);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: cover;
+
+  background: url(https://fitz-cms-images.s3.eu-west-2.amazonaws.com/paphos_sunset.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#holding a {
+  color: #fff;
 }
 a{
   text-decoration:none;
