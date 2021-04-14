@@ -39,11 +39,13 @@ title: 'Being an Islander'
       <img src="{{ site.baseurl }}/images/leventis.png" alt="The Leventis Foundation Logo" class="img-fluid mb-2 mr-2" />
       <img src="{{ site.baseurl }}/images/StavrosNiarchosFoundation.png" alt="Stavros Niarchos logo" class="img-fluid mr-2 mb-2"/>
       <img src="{{ site.baseurl }}/images/cyprus.png" alt="The Cypriot Embassy logo" class="img-fluid mr-2 mb-2" />
-      <img src="https://content.fitz.ms/fitz-website/assets/cyprusInst.png?key=directus-medium-contain" alt="Cyprus Institute logo" class="img-fluid mr-2 mb-2" />
-    </div>
+     </div>
     <div class="row">
+      <img src="https://content.fitz.ms/fitz-website/assets/cyprusInst.png?key=directus-medium-contain" alt="Cyprus Institute logo" class="img-fluid mr-2 mb-2" />
       <img src="https://content.fitz.ms/fitz-website/assets/mcd.png?key=directus-medium-contain" alt="McDonald logo" class="img-fluid mr-2 mb-2" />
       <img src="https://content.fitz.ms/fitz-website/assets/ipsfXwD4.jpeg?key=directus-medium-contain" alt="hellenic logo" class="img-fluid mr-2 mb-2" />
+    </div>
+    <div class="row">
       <img src="https://content.fitz.ms/fitz-website/assets/calgiari.png?key=directus-medium-contain" alt="Museo Archeologico Nazionale di Cagliari" class="img-fluid mr-2 mb-2" />
       <img src="https://content.fitz.ms/fitz-website/assets/6612da61425d98755836902a8bde1bce_L.jpg?key=directus-medium-contain" alt="Department of Antiquities, Cyprus" class="img-fluid mr-2 mb-2" />
     </div>
