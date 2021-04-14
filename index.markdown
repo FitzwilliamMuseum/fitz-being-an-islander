@@ -33,7 +33,7 @@ title: 'Being an Islander'
  
 </div>
 
-<div class="section" id="sponsors">
+<div class="section pp-scrollable" id="sponsors">
   <div class="col-md-12 justify-content-center">
     <div class="row justify-content-center">
       <img src="https://content.fitz.ms/fitz-website/assets/AGLF%20LOGO%20CMYK_ENG%20high%20definition.jpg?key=directus-medium-contain" alt="The Leventis Foundation Logo" class="img-fluid mb-2 mr-2" />
