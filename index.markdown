@@ -36,6 +36,7 @@ title: 'Being an Islander'
 <div class="section pp-scrollable" id="sponsors">
   <div class="col-md-12 justify-content-center my-5">
     <div class="col justify-content-center mb-2">
+            <img src="https://content.fitz.ms/fitz-website/assets/AGLF%20LOGO%20CMYK_ENG%20high%20definition.jpg?key=directus-medium-contain" alt="The Leventis Foundation Logo" class="img-fluid mb-2 mr-2" />
       <img src="https://content.fitz.ms/fitz-website/assets/SNF%20primary%20logo_short_hi.jpg?key=directus-medium-contain" alt="Stavros Niarchos logo" class="img-fluid mr-2 mb-2"/>
       <img src="{{ site.baseurl }}/images/cyprus.png" alt="The Cypriot Embassy logo" class="img-fluid mr-2 mb-2" />
      </div>
