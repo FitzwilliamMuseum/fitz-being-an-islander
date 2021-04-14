@@ -30,7 +30,8 @@ title: 'Being an Islander'
           If you're reading this, audio isn't supported.
       </audio>
   </div>
-
+   <h1>Scroll Down Button #1</h1>
+  <a href="#sponsors"><span></span>Scroll</a>
 </div>
 
 <div class="section" id="sponsors">
