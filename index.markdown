@@ -38,7 +38,9 @@ title: 'Being an Islander'
   <img src="{{ site.baseurl }}/images/leventis.png" alt="The Leventis Foundation Logo" class="img-fluid mb-2 mr-2" />
   <img src="{{ site.baseurl }}/images/StavrosNiarchosFoundation.png" alt="Stavros Niarchos logo" class="img-fluid mr-2 mb-2"/>
   <img src="{{ site.baseurl }}/images/cyprus.png" alt="The Cypriot Embassy logo" class="img-fluid mr-2 mb-2" />
-
+  <img src="https://content.fitz.ms/fitz-website/assets/cyprusInst.png?key=directus-medium-contain" alt="Cyprus Institute logo" class="img-fluid mr-2 mb-2" />
+  <img src="https://content.fitz.ms/fitz-website/assets/mcd.png?key=directus-medium-contain" alt="McDonald logo" class="img-fluid mr-2 mb-2" />
+  <img src="https://content.fitz.ms/fitz-website/assets/ipsfXwD4.jpeg?key=directus-medium-contain" alt="hellenic logo" class="img-fluid mr-2 mb-2" />
   </div>
   <div class="row">
     <div class="col-md-12 d-flex justify-content-center mt-5">
