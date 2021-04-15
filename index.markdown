@@ -8,7 +8,7 @@ title: 'Being an Islander'
 
 <div class="section pp-scrollable" id="holding">
   <div class="intro col-md-12 my-5">
-    <a href="https://www.fitzmuseum.cam.ac.uk"><img src="https://beta.fitz.ms/images/logos/Fitz_logo_white.png" width="150" alt="Fitzwilliam Museum logo" class="img-fluid"/></a>
+    <a href="https://www.fitzmuseum.cam.ac.uk"><img src="https://beta.fitz.ms/images/logos/Fitz_logo_white.png" width="300" alt="Fitzwilliam Museum logo" class="img-fluid"/></a>
      <h1 class="display-1">
       {{page.title}}
     </h1>
@@ -26,7 +26,7 @@ title: 'Being an Islander'
 </div>
   <div id="player">
       <audio autoplay hidden loop controls>
-       <source src="{{ site.baseurl }}/mp3/sea.mp3" type="audio/mpeg">
+       <source src="{{ site.baseurl }}/mp3/sea.m4a" type="audio/x-m4a">
           If you're reading this, audio isn't supported.
       </audio>
   </div>
