@@ -22,8 +22,8 @@ title: Being an Islander
 email: dejp3@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   A holding website for Being an Islander.
-baseurl: "/islander" # the subpath of your site, e.g. /blog
-url: "https://fitzwilliam.github.cop/islander" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://islander.fitz.ms" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dejpett
 github_username:  portableant
 
