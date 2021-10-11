@@ -2,6 +2,7 @@
 title: Our research
 layout: gold
 permalink: /research/
+cards: true
 ---
 <div class="container mb-3">
   <div class="row">

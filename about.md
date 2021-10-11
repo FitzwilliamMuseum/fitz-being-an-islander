@@ -2,6 +2,7 @@
 title: About the Islander Project
 layout: gold
 permalink: /about/
+cards: true
 ---
 <div class="container mb-3">
   <div class="row">

@@ -2,6 +2,7 @@
 title: Project resources
 layout: gold
 permalink: /resources/
+cards: true
 ---
 <div class="container mb-3">
   <div class="row">

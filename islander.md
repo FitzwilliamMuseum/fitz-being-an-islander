@@ -2,6 +2,7 @@
 title: The exhibition
 layout: gold
 permalink: /islander/
+cards: true
 ---
 <div class="container mb-3">
   <div class="row">
