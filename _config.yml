@@ -21,7 +21,7 @@
 title: Being an Islander
 email: dejp3@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  A holding website for Being an Islander.
+  A research and exhibition website for Being an Islander.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://islander.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
@@ -43,12 +43,19 @@ plugins:
 collections:
    exhibition:
       output: true
+      permalink: /:collection/:path
    about:
       output: true
+      permalink: /:collection/:path
    resources:
       output: true
-   team:
+      permalink: /:collection/:path
+   research:
       output: true
+      permalink: /:collection/:path
+   islander:
+      output: true
+      permalink: /:collection/:path
    blog:
       output: true
 

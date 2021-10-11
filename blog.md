@@ -1,7 +1,7 @@
 ---
 layout: gold
 permalink: /blog/
-title: Project blog
+title: News and blog
 ---
 
 {% for post in site.blog reversed %}

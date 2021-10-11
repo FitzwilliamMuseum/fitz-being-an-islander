@@ -1,14 +1,14 @@
 ---
-title: About the Islander Project
+title: Our research
 layout: gold
-permalink: /about/
+permalink: /research/
 ---
 <div class="container mb-3">
   <div class="row">
-{% assign rows = site.about.size | divided_by: 2.0 | ceil %}
+{% assign rows = site.research.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
 {% assign offset = forloop.index0 | times: 2 %}
-{% assign sorted = site.about | sort:"order" %}
+{% assign sorted = site.research | sort:"order" %}
     {% for article in sorted limit:2 offset:offset %}
     <div class="col-md-4 mb-3">
       <div class="card h-100" >
