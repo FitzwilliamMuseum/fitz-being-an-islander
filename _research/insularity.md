@@ -2,6 +2,7 @@
 title: Insularity
 layout: gold
 image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/preview_GR_19_1917_20_281_29.jpg
+order: 1
 ---
 In geographic terms, islands are merely pieces of land surrounded by water, but the perception of island life has never been neutral. Throughout history, islands have been treated as distinct places, unlike mainland and continental masses. But are islands inherently different from mainlands? Historically in the Mediterranean, some islands rose to the role of mini-continents due to their size and economic and political importance. Ancient Greeks, for example, considered Sicily a continent in its own right<sup>[1](#f1)</sup>. Likewise, the large Mediterranean islands of Crete, Cyprus, and Sardinia, were often given a special status due to their size, as they occupy an intermediate position between small island worlds, such as the Aegean islands system, and the surrounding landmasses.
 
@@ -27,25 +28,25 @@ The large islands were stepping stones of Mediterranean connectivity, as they pr
 ## Footnotes
 {: .text-info .lead }
 
-<a name="f1">1</a>: Rackham and Moody 1996, xi; Constantakopoulou 2007, 12-15; Kopaka and Cadogan 2012, 18-19.  
-<a name="f2">2</a>: For example, in Homer (e.g., Odyssey 5.60; 9.145-155; 10.1.5), Hesiod (Theognis 963-4), and Thucydides (I.143.4-5) (Constantakopoulou 2005, 2-3; 2007; Kopaka and Cadogan 2012, 19); for a comment on modern portrayal see Knapp 2007, 38-9.  
-<a name="f3">3</a>: For a critique of such approaches see Patton 1996, van Dommelen 1999; Broodbank 2000; Knapp 2007; Ulf 2008; Cadogan, Iacovou, Kopaka, and Whitley 2012.  
-<a name="f4">4</a>: Sahlins 1985; Knapp and Blake 2004; Knapp 2008; Broodbank 2013, 342.   
-<a name="f5">5</a>: Broodbank 2000; Cherry 2004; Gordon 2018, 10.   
-<a name="f6">6</a>: Iacovou 2013; Janes 2015.  
-<a name="f7">7</a>: Various contributions in Georgiou 2012 and Pilides and Papadimitriou 2012.   
-<a name="f8">8</a>: Blake 1999; 2015.  
-<a name="f9">9</a>: Boomert and Bright 2007, 18.  
-<a name="f10">10</a>: Broodbank 2000, fig. 4.  
-<a name="f11">11</a>:  Kopaka and Cadogan 2012.    
-<a name="f12">12</a>: For sea as a dividing body and islands as isolated see Braudel 1972; for sea as a connector see Horden and Purcell 2000; Broodbank 2013.  
-<a name="f13">13</a>: Broodbank 2000; Bevan and Conolly 2013.  
-<a name="f14">14</a>: Dawson 2014.  
-<a name="f15">15</a>: Karageorghis 2013.    
-<a name="f16">16</a>: Lo Schiavo 2003.
-<a name="f17">17</a>: Constantakopoulou 2007, 2; Gordon and Kouremenos 2020,3.  
-<a name="f18">18</a>: Gordon 2018.  
-<a name="f19">19</a>: Sabatini and Lo Schiavo 2020.  
+<a name="f1" class="anchor">1</a>: Rackham and Moody 1996, xi; Constantakopoulou 2007, 12-15; Kopaka and Cadogan 2012, 18-19.  
+<a name="f2" class="anchor">2</a>: For example, in Homer (e.g., Odyssey 5.60; 9.145-155; 10.1.5), Hesiod (Theognis 963-4), and Thucydides (I.143.4-5) (Constantakopoulou 2005, 2-3; 2007; Kopaka and Cadogan 2012, 19); for a comment on modern portrayal see Knapp 2007, 38-9.  
+<a name="f3" class="anchor">3</a>: For a critique of such approaches see Patton 1996, van Dommelen 1999; Broodbank 2000; Knapp 2007; Ulf 2008; Cadogan, Iacovou, Kopaka, and Whitley 2012.  
+<a name="f4" class="anchor">4</a>: Sahlins 1985; Knapp and Blake 2004; Knapp 2008; Broodbank 2013, 342.   
+<a name="f5" class="anchor">5</a>: Broodbank 2000; Cherry 2004; Gordon 2018, 10.   
+<a name="f6" class="anchor">6</a>: Iacovou 2013; Janes 2015.  
+<a name="f7" class="anchor">7</a>: Various contributions in Georgiou 2012 and Pilides and Papadimitriou 2012.   
+<a name="f8" class="anchor">8</a>: Blake 1999; 2015.  
+<a name="f9" class="anchor">9</a>: Boomert and Bright 2007, 18.  
+<a name="f10" class="anchor">10</a>: Broodbank 2000, fig. 4.  
+<a name="f11" class="anchor">11</a>:  Kopaka and Cadogan 2012.    
+<a name="f12" class="anchor">12</a>: For sea as a dividing body and islands as isolated see Braudel 1972; for sea as a connector see Horden and Purcell 2000; Broodbank 2013.  
+<a name="f13" class="anchor">13</a>: Broodbank 2000; Bevan and Conolly 2013.  
+<a name="f14" class="anchor">14</a>: Dawson 2014.  
+<a name="f15" class="anchor">15</a>: Karageorghis 2013.    
+<a name="f16" class="anchor">16</a>: Lo Schiavo 2003.
+<a name="f17" class="anchor">17</a>: Constantakopoulou 2007, 2; Gordon and Kouremenos 2020,3.  
+<a name="f18" class="anchor">18</a>: Gordon 2018.  
+<a name="f19" class="anchor">19</a>: Sabatini and Lo Schiavo 2020.  
 
 ## Bibliography
 {: .text-info .lead }

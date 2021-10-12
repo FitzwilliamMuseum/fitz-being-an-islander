@@ -2,6 +2,7 @@
 layout: gold
 title: Food and ancient insular diet
 image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/preview_GR_19_1917_20_281_29.jpg
+order: 4
 ---
 
 Prior to the 1990’s, narratives of ancient diets, food preparation and consumption were limited to the social context of food-serving and drinking vessels. However, in the past two decades, scientific sub-disciplines within archaeology (archaeozoology and archaeobotany) produced an immense amount of information for our understanding of consumption in antiquity and helped answer questions about ancient diets, their variations and impact on ancient societies as well as placed the study of ancient food as a marker of ancient cultural identity.

@@ -2,6 +2,7 @@
 layout: gold
 title: Mobility
 image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/preview_GR_19_1917_20_281_29.jpg
+order: 2
 ---
 
 Mobility was one of the defining characteristics of the ancient Mediterranean island societies. While the intensity of mobility varied through time and space and not all members of island communities may have participated in it, mobility was an important feature of island life, motivating and maintaining informal and formal connections. Strongest connections were forged at small scales between neighbouring communities or through movement of people within a region for work, marriage and agropastoralism. Medium to long-distance connections were much more selective and relied on maritime and overland infrastructure, such as trade routes, ports and merchant networks. Such connectivity intensified in the course of the Late Bronze and reached their zenith in the Hellenistic and Roman periods.
@@ -17,18 +18,18 @@ Being an Islander project investigates a range of mobilities that characterised 
 ### Footnotes
 {: .text-info .lead }
 
-<a name="f1">1</a>: Horden and Purcell 2000.  
-<a name="f2">2</a>: Nazou 2020.  
-<a name="f3">3</a>: Broodbank 2000, 98; Knappett, Evans, and Rivers 2008, 1011.   
-<a name="f4">4</a>: Georgiou 1993, 360-361.  
-<a name="f5">5</a>: Broodbank 2013, 513; Papadopoulos 2014.  
-<a name="f6">6</a>: Broodbank 2013, 561.  
-<a name="f7">7</a>: Greene 2018, 133-135.
-<a name="f8">8</a>: Dawson 2021.
-<a name="f9">9</a>: Broodbank 2013, 78; Berg 2019.
-<a name="f10">10</a>: Cadogan et al. 2012; Georgiou 2012; Lo Schiavo and Campus 2013; Russel and Knapp 2017; Halbertsma and Pilides 2019.  
-<a name="f11">11</a>: Stampolidis and Karageorghis 2003.
-<a name="f12">12</a>: Tronchetti 2015.
+<a name="f1" class="anchor">1</a>: Horden and Purcell 2000.  
+<a name="f2" class="anchor">2</a>: Nazou 2020.  
+<a name="f3" class="anchor">3</a>: Broodbank 2000, 98; Knappett, Evans, and Rivers 2008, 1011.   
+<a name="f4" class="anchor">4</a>: Georgiou 1993, 360-361.  
+<a name="f5" class="anchor">5</a>: Broodbank 2013, 513; Papadopoulos 2014.  
+<a name="f6" class="anchor">6</a>: Broodbank 2013, 561.  
+<a name="f7" class="anchor">7</a>: Greene 2018, 133-135.
+<a name="f8" class="anchor">8</a>: Dawson 2021.
+<a name="f9" class="anchor">9</a>: Broodbank 2013, 78; Berg 2019.
+<a name="f10" class="anchor">10</a>: Cadogan et al. 2012; Georgiou 2012; Lo Schiavo and Campus 2013; Russel and Knapp 2017; Halbertsma and Pilides 2019.  
+<a name="f11" class="anchor">11</a>: Stampolidis and Karageorghis 2003.
+<a name="f12" class="anchor">12</a>: Tronchetti 2015.
 
 ### Bibliography
 {: .lead .text-info }
