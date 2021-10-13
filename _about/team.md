@@ -2,7 +2,8 @@
 layout: gold
 title: Our team
 order: 2
-image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/preview_GR_19_1917_20_281_29.jpg
+image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/anastasia-christophilopoulou_2.jpg
+caption: "Principal Investigator: Anastasia Christophilopoulou"
 ---
 * Principal Investigator: Anastasia Christophilopoulou
 * Co-Investigator: Dr Jana Mokrišova

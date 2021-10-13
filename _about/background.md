@@ -2,7 +2,12 @@
 layout: news
 title: Background
 order: 1
-image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/preview_GR_19_1917_20_281_29.jpg
+image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/sardinia_trip-222-1-.jpg
+caption: "The Bronze Age site of Su Nuraxi Barumini, in Marmilla, south-central Sardinia (Province of Medio Campidano). Photo @ Christophilopoulou 2019"
+images:
+  -
+    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/eye-idol-15-image-taken-by-samy-kourbaj.jpeg
+    caption: "The project incorporates a wide variety of public engagement events and workshops, centred around the material culture of the three islands and the East Mediterranean. Copyright Samy Kourbaj"
 ---
 
 ‘Being an Islander: Art and Identity of the Large Mediterranean Islands' runs as a research project between 2019 and 2023, with a major exhibition opening on 21 February 2023 and closing on 4 June 2023.
