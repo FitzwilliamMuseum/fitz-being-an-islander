@@ -1,6 +1,6 @@
 ---
 title: Exhibition
-layout: gold
+layout: news
 permalink: /exhibition/
 cards: true
 ---

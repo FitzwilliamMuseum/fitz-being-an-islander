@@ -1,6 +1,6 @@
 ---
 title: About the Islander Project
-layout: gold
+layout: news
 permalink: /about/
 cards: true
 ---

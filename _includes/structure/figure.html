@@ -1,0 +1,10 @@
+{% if page.image %}
+<div class="container-fluid bg-white">
+  <div class="container text-center">
+    <figure class="figure">
+      <img width="100%" src="{{site.baseurl}}{{page.image}}" alt="{{ page.title }}" class="img-fluid"/>
+      <figcaption class="figure-caption text-info">{{page.caption}}</figcaption>
+    </figure>
+  </div>
+</div>
+{% endif %}

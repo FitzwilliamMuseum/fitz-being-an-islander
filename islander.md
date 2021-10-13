@@ -1,6 +1,6 @@
 ---
 title: The exhibition
-layout: gold
+layout: news
 permalink: /islander/
 cards: true
 ---

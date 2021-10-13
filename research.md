@@ -1,6 +1,6 @@
 ---
 title: Our research
-layout: gold
+layout: news
 permalink: /research/
 cards: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: Project resources
-layout: gold
+layout: news
 permalink: /resources/
 cards: true
 ---

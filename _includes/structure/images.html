@@ -1,0 +1,14 @@
+{% if page.images %}
+ <div class="container-fluid bg-pastel py-3 text-center">
+   <div class="container row mx-auto">
+  {% for image in page.images %}
+    <div class="col h-100">​
+      <figure class="figure">
+        <img src="{{ image.file}}" class="img-fluid img-thumbnail" alt="{{image.caption}}">
+        <figcaption class="figure-caption text-info">{{ image.caption }}</figcaption>
+      </figure>
+    </div>
+  {% endfor %}
+  </div>
+  </div>
+{% endif %}
