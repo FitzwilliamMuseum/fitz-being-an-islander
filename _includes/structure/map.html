@@ -1,5 +1,4 @@
-
-
+{% if page.geoJson %}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.4.0/leaflet.js"></script>
 
 <script type="text/javascript">
@@ -33,3 +32,4 @@ var dareLayer = L.tileLayer('https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png', {
 }).addTo(map);
   });
 </script>
+{% endif %}
