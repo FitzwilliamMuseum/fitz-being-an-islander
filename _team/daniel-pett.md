@@ -1,5 +1,5 @@
 ---
-title: Daniel Pett
+title: Professor Daniel Pett
 twitter: "@dejpett"
 image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/danielpett.jpeg
 institution: The Fitzwilliam Museum
