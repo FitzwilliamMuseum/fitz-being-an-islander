@@ -1,7 +1,7 @@
 ---
 title: Professor Daniel Pett
 twitter: "@dejpett"
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/danielpett.jpeg
+image: https://live.staticflickr.com/8485/8178221296_c2534734c3_h.jpg
 institution: The Fitzwilliam Museum
 job-title: Head of Digital & IT
 layout: news
