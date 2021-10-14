@@ -1,6 +1,7 @@
 ---
-layout: gold
+layout: news
 title: Insularity in modern art
 order: 1
-image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/preview_GR_19_1917_20_281_29.jpg
+image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/eye-idol-15-image-taken-by-samy-kourbaj.jpeg
+caption: "The project incorporates a wide variety of public engagement events and workshops, centred around the material culture of the three islands and the East Mediterranean. Copyright Samy Kourbaj"
 ---
