@@ -1,6 +1,6 @@
 ---
 title: Our research
-layout: news
+layout: funders
 permalink: /research/
 cards: true
 ---
