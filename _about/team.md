@@ -1,26 +1,41 @@
 ---
-layout: gold
+layout: funders
 title: Our team
 order: 2
 image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/anastasia-christophilopoulou_2.jpg
 caption: "Principal Investigator: Anastasia Christophilopoulou"
+cards: true
 ---
-* Principal Investigator: Anastasia Christophilopoulou
-* Co-Investigator: Dr Jana Mokrišova
-* Dr David Evans (Exhibitions Manager, Fitzwilliam Museum)
-* Susanna Pancaldo (Conservator of Objects, Fitzwilliam Museum)
-* Dr Ema Baužytė (Research Associate for Scientific Analysis of Archaeological Metals, Fitzwilliam Museum)
-* Professor Daniel Pett (Head of Digital, Fitzwilliam Museum)
-* Professor Marcos Martinón-Torres (Pitt-Rivers Professor of Archaeological Science, McDonald Institute for Archaeological Research, Cambridge)
-* Dr Despina Pilides (Curator of Antiquities, Department of Antiquities, Nicosia, Cyprus)
-* Dr Marina Solomidou-Ieronymidou (Director, Department of Antiquities, Nicosia, Cyprus)
-* Dr Polyxeni Adam-Veleni, Director General of Antiquities and Cultural Heritage, Greece
-* Dr Evi Margaritis (Assistant Professor, The Cyprus Institute, Nicosia)
-* Dr Giorgos Artopoulos (Assistant Professor, The Cyprus Institute, Nicosia)
-* Yorgos Petrou, (Contemporary Artist, London) 
-* Professor Naoíse Mac Sweeney (Professor of Classical Archaeology, Institute for Classical Archaeology, Vienna)
-* Dr Michael Loy (British School at Athens)
-* Dr Achilleas Hadjikyriacou (Royal Holloway, University of London)
-* Rafael Laoutari (PhD Candidate, Department of Archaeology and Fitzwilliam Museum, Cambridge)
-* Professor Katerina Kopaka (Professor Emerita, Department of History and Archaeology, School of Philosophy, University of Crete)
-* Professor Nena Galanidou (Professor of Prehistoric Archaeology, Department of History and Archaeology, School of Philosophy, University of Crete; Director of the Paleolithic Lesbos Project)  
+<div class="container mb-3">
+  <div class="row">
+{% assign rows = site.team.size | divided_by: 2.0 | ceil %}
+{% for i in (1..rows) %}
+{% assign offset = forloop.index0 | times: 2 %}
+{% assign sorted = site.team | sort:"order" %}
+    {% for article in sorted limit:2 offset:offset %}
+    <div class="col-md-4 mb-3">
+      <div class="card h-100" >
+        <a href="{{ article.url }}" class="stretched-link">
+        {% if article.image != blank %}
+          <img class="card-img-top" src="{{site.baseurl}}{{article.image}}" alt="A profile image of {{article.title}}" />
+        {% else %}
+          <img class="card-img-top" src="https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/preview_GR_19_1917_20_281_29.jpg" alt="A stand in image for a missing profile" />
+        {% endif %}
+        </a>
+        <div class="card-body">
+          <h3 class="lead mt-2">
+            <a href="{{ article.url }}" class="stretched-link">{{article.title}}</a>
+          </h3>
+          {% if article.job-title %}
+          <p class="text-muted">{{ article.job-title}}</p>
+          {% endif %}
+          {% if article.institution %}
+            <p>Institution: {{ article.institution}}</p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  {% endfor %}
+  </div>
+</div>

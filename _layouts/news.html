@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
 <head>
@@ -85,7 +84,9 @@ integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeV
     </div>
 
     {% include /structure/breadcrumbs.html %}
-    {% include structure/figure.html %}
+    <div class="container-fluid bg-pastel pt-3 pb-3">
+      {% include structure/figure.html %}
+    </div>
     <div class="container-fluid bg-white ">
       {% if page.cards == blank %}
       <div class="container">
