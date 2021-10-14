@@ -1,6 +1,6 @@
 ---
 title: Project resources
-layout: news
+layout: funders
 permalink: /resources/
 cards: true
 ---
