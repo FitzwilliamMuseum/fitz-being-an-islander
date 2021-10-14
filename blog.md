@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: funders
 permalink: /blog/
 title: News and blog
 ---

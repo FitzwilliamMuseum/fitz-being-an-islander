@@ -1,5 +1,5 @@
 ---
-layout: gold
+layout: news
 title: Food and ancient insular diet
 image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/preview_GR_19_1917_20_281_29.jpg
 order: 4

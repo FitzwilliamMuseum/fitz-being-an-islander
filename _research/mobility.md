@@ -1,8 +1,26 @@
 ---
-layout: gold
+layout: news
 title: Mobility
-image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/preview_GR_19_1917_20_281_29.jpg
+image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant44/GR_1_1917_1_201410_jas244_dc2.jpg
+caption: "Hellenistic statuette (200 BCE) of a seated child holding dove, © The Fitzwilliam Museum, Cambridge 2020."
 order: 2
+images:
+  -
+    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/efnvcrtwsaefbik-copy-1-.jpg
+    caption: The Archaeological site of Knossos, Crete. Photo Copyright Christophilopoulou 2021
+  -
+    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/image00218.jpg
+    caption: "Cypro-Archaic (750-600 BCE) bichrome barrel-shaped jug with concentric circles and stylised birds, from Cyprus @Fitzwilliam Museum 2020"
+  -
+    file: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant47/GR_25_1890_1_201604_kly25_dc2.jpg
+    caption: "Archaic terrocota figurine head from Salamis (600 BCE — 501 BCE)"
+  -
+    file: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant9/GR_6a_1939_281_29.jpg
+    caption: "Early Bronze Age pottery from the Vounous Cemetery, North Cyprus. @ Fitzwilliam museum 2020."
+  -
+    file: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant48/GR_100_1888_1_201706_sjc288_dc2.jpg
+    caption: "Middle Roman (100 - 300 CE) glass unguentarium from Cyprus"
+
 ---
 
 Mobility was one of the defining characteristics of the ancient Mediterranean island societies. While the intensity of mobility varied through time and space and not all members of island communities may have participated in it, mobility was an important feature of island life, motivating and maintaining informal and formal connections. Strongest connections were forged at small scales between neighbouring communities or through movement of people within a region for work, marriage and agropastoralism. Medium to long-distance connections were much more selective and relied on maritime and overland infrastructure, such as trade routes, ports and merchant networks. Such connectivity intensified in the course of the Late Bronze and reached their zenith in the Hellenistic and Roman periods.

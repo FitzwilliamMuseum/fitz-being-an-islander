@@ -4,6 +4,16 @@ layout: news
 caption: Archaic (600 - 500 BCE) statuette of a man grappling with a lion from Cyprus @ Fitzwilliam Museum Cambridge.
 image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant47/GR_3b_1891_1_201608_kly25_dc2.jpg
 order: 1
+images:
+  -
+    file: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant49/GR_5c_1939_1_201806_amt49_dc2.jpg
+    caption: "Early Bronze Age pottery from the Vounous Cemetery, North Cyprus. Copyright Fitzwilliam museum 2020."
+  -
+    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/nicosia_n.jpg
+    caption: "A mosque in the north district of Nicosia, Cyprus. Photo @ Christophilopoulou 2019"
+  -
+    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/sardinia_trip-222-1-.jpg
+    caption: "The Bronze Age site of Su Nuraxi Barumini, in Marmilla, south-central Sardinia (Province of Medio Campidano). Photo @ Christophilopoulou 2019"
 ---
 In geographic terms, islands are merely pieces of land surrounded by water, but the perception of island life has never been neutral. Throughout history, islands have been treated as distinct places, unlike mainland and continental masses. But are islands inherently different from mainlands? Historically in the Mediterranean, some islands rose to the role of mini-continents due to their size and economic and political importance. Ancient Greeks, for example, considered Sicily a continent in its own right<sup>[1](#f1)</sup>. Likewise, the large Mediterranean islands of Crete, Cyprus, and Sardinia, were often given a special status due to their size, as they occupy an intermediate position between small island worlds, such as the Aegean islands system, and the surrounding landmasses.
 

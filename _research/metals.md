@@ -1,11 +1,18 @@
 ---
-layout: gold
+layout: news
 title: Metals
-image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/preview_GR_19_1917_20_281_29.jpg
+image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/gr.j.4_2_201706_sjc288_dc1-1-.jpg
+caption: "Fragments of Hellenistic gold sheet excavated in Cyprus (provenance of gold unknown). An important dimension of the research conducted as part of the Being an Islander project is the scientific analysis of metal objects and metal fragments with relevance to the provenance of their materials, manufacture and use in Antiquity."
 order: 3
+images:
+  -
+    file: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant20/GR_151_1864_283_29.jpg
+    caption: "Late Minoan (1400-1200 BCE or later), Bronze female figurine of a worshipper. Bronze Age Cypriot and Minoan figurines make up the core of the research analysis on ancient metals, a collaboration between the Fitzwilliam Museum and the McDonald Institute for Archaeological research, Cambridge. Cambridge."
+  -
+    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/oxhide-ingots-sardinia_n-1-.jpg
+    caption: "A Bronze Age oxhide ingot, at the collections of the National Archaeological Museum of Cagliari, Sardinia. Photo @ Christophilopoulou 2020"
 ---
 
-Metals
 The project’s core research questions, offering a critical re-examination of the concept of island life, are also explored in a distinct sub-project which investigates the materials, methods of production and use of metal objects from Cyprus, Crete and Sardinia, dating from the Early Bronze Age to the beginning of the Classical period (ca 2000-500 BCE). As materials from Cyprus are particularly well represented in the collections of the Fitzwilliam Museum, conservation and scientific research has focussed primarily on metalware from this particular island.
 
 Crete, Cyprus and Sardinia each have important metallurgical histories, and the study of metallurgy and trade in metals associated with the three islands has often been framed with an emphasis on the abundance and provenance of metal sources and of finished objects. Objects forged from various metals (primarily bronze, copper, iron, gold and silver) and in various forms (vessels, weapons, tools, symbolic and cultic objects, jewellery and coins) presented an important part of life of ancient communities on all three islands. However, a focus on geographic parameters and the provenance of materials and objects can be limiting. A more meaningful understanding of the relationships of people across islands also takes into consideration the choices made in the selection of raw materials, in deployment of technological methods of manufacture and in the consumption of objects, made locally or imported.

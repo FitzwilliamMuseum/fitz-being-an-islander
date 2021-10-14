@@ -1,8 +1,13 @@
 ---
-layout: gold
+layout: news
 title: Conference
-image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/preview_GR_19_1917_20_281_29.jpg
+image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/eggnj5su4aqsk18-copy-1-.jpg
+caption: View of the A. G. Leventis Gallery of Ancient Cyprus at the Fitzwilliam Museum @ Fitzwilliam Museum 2021
 order: 5
+images:
+  -
+    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/fig_1christophilopoulou_burn-1-.jpg
+    caption: "View of the entrance Hall of the Ashmolean Museum @Ashmolean Museum 2020. The Antiquities Department of the Ashmolean is a partner to the Being an Islander Conference, planned for 2023."
 ---
 
 Being an Islander project is co-organising a three-day international, interdisciplinary conference with the Ashmolean Museum, and Dr Andrew Shapland in particular, to be held in late March 2023 in London, Cambridge and Oxford.
