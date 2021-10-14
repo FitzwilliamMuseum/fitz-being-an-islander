@@ -2,6 +2,7 @@
 title: Dr Anastasia Christophilopoulou
 twitter:
 image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/anastasia-christophilopoulou_2.jpg
+caption: Dr Anastasia Christophilopoulou
 institution: The Fitzwilliam Museum
 job-title: Principal Investigator
 layout: news

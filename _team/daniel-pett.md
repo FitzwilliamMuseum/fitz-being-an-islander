@@ -1,5 +1,6 @@
 ---
 title: Professor Daniel Pett
+caption: Daniel Pett at UCL Archaeology
 twitter: "@dejpett"
 image: https://live.staticflickr.com/8485/8178221296_c2534734c3_h.jpg
 institution: The Fitzwilliam Museum
