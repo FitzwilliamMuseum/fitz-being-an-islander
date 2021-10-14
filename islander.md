@@ -1,6 +1,6 @@
 ---
 title: The exhibition
-layout: news
+layout: funders
 permalink: /islander/
 cards: true
 ---
