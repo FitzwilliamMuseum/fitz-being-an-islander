@@ -1,9 +1,10 @@
 ---
 title: About the Islander Project
-layout: news
+layout: funders
 permalink: /about/
 cards: true
 ---
+
 <div class="container mb-3">
   <div class="row">
 {% assign rows = site.about.size | divided_by: 2.0 | ceil %}
