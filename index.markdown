@@ -1,8 +1,8 @@
 ---
-layout: news
+layout: gold
 title: 'Being an Islander'
 image:
-caption: 
+caption:
 ---
 **‘Being an Islander: Art and Identity of the Large Mediterranean Islands'** runs as a research project between 2019 and 2023, with a major exhibition opening on 21 February 2023 and closing on 4 June 2023.
 
