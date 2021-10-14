@@ -9,7 +9,7 @@
   {% for image in page.images %}
     <div class="col-md-{{cols}} h-100">​
       <figure class="figure">
-        <img src="{{ image.file}}" class="img-fluid img-thumbnail" alt="{{image.caption}}">
+        <img src="{{ image.file}}" class="img-fluid img-thumbnail" alt="{{image.caption}}" data-toggle="lightbox">
         <figcaption class="figure-caption text-info">{{ image.caption }}</figcaption>
       </figure>
     </div>
