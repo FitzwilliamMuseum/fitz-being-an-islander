@@ -1,5 +1,5 @@
 ---
-title: Anastasia Christophilopoulou
+title: Dr Jana Mokrišova
 twitter:
 image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/jana-mokrisova.jpg
 institution: Department of Classics
