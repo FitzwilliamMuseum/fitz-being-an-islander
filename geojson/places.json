@@ -8,13 +8,13 @@
     },
     "properties" : {
       "titles" : "Su Nuraxi di Barumini",
-      "annotations" : 2
+      "annotations" : 1
     },
     "uris" : [ "http://pleiades.stoa.org/places/948291971" ],
     "titles" : [ "Su Nuraxi di Barumini" ],
     "place_types" : [ "nuraghe" ],
     "source_gazetteers" : [ "http://pleiades.stoa.org" ],
-    "quotes" : [ "Su Nuraxi di Barumini", "Nuraxi" ]
+    "quotes" : [ "Su Nuraxi di Barumini" ]
   }, {
     "type" : "Feature",
     "geometry" : {
@@ -30,7 +30,7 @@
     "names" : [ "Cyprus" ],
     "place_types" : [ "province" ],
     "source_gazetteers" : [ "http://pleiades.stoa.org" ],
-    "quotes" : [ "Cyprus", "Cyprus\n" ]
+    "quotes" : [ "Cyprus\n", "Cyprus" ]
   }, {
     "type" : "Feature",
     "geometry" : {
@@ -46,37 +46,6 @@
     "names" : [ "Crète", "Κρήτη", "Crete", "Creta", "Kreta", "Creta" ],
     "source_gazetteers" : [ "http://www.geonames.org" ],
     "quotes" : [ "Crete" ]
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 23.5314735, 37.947768 ]
-    },
-    "properties" : {
-      "titles" : "Salamis",
-      "annotations" : 1
-    },
-    "uris" : [ "http://pleiades.stoa.org/places/580100" ],
-    "titles" : [ "Salamis" ],
-    "names" : [ "Salamis" ],
-    "place_types" : [ "settlement" ],
-    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
-    "quotes" : [ "Salamis" ]
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 15.649909, 38.112175 ]
-    },
-    "properties" : {
-      "titles" : "Odeon di Reggio di Calabria",
-      "annotations" : 1
-    },
-    "uris" : [ "http://dare.ht.lu.se/places/42146" ],
-    "titles" : [ "Odeon di Reggio di Calabria" ],
-    "names" : [ "Odeon di Reggio di Calabria" ],
-    "source_gazetteers" : [ "dare-20180219" ],
-    "quotes" : [ "di" ]
   }, {
     "type" : "Feature",
     "geometry" : {
@@ -97,6 +66,22 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
+      "coordinates" : [ 33.90294, 35.17926 ]
+    },
+    "properties" : {
+      "titles" : "Salamis/Konstantia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/707617" ],
+    "titles" : [ "Salamis/Konstantia" ],
+    "names" : [ "Salamis", "Konstantia", "Si-lu-a" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Salamis" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
       "coordinates" : [ 33.24431, 35.02967 ]
     },
     "properties" : {
@@ -109,20 +94,5 @@
     "place_types" : [ "settlement" ],
     "source_gazetteers" : [ "http://pleiades.stoa.org" ],
     "quotes" : [ "Tamassos" ]
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
-      "coordinates" : [ 22.403676, 38.809521 ]
-    },
-    "properties" : {
-      "titles" : "Vounous",
-      "annotations" : 1
-    },
-    "uris" : [ "http://dare.ht.lu.se/places/29483" ],
-    "titles" : [ "Vounous" ],
-    "names" : [ "Vounous" ],
-    "source_gazetteers" : [ "dare-20180219" ],
-    "quotes" : [ "Vounous" ]
   } ]
 }
