@@ -6,20 +6,24 @@ image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/sardinia_trip-222-1-.j
 caption: "The Bronze Age site of Su Nuraxi di Barumini , in Marmilla, south-central Sardinia (Province of Medio Campidano). Photo @ Christophilopoulou 2019"
 images:
   -
+    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/lapta_oldvillage-1-.jpg
+    caption: "Yorgos Petrou rerecording abandoned houses in Ano Keryneia district, North Cyprus, May 2019 @Petrou & Christophilopoulou 2019"
+  -
     file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/eye-idol-15-image-taken-by-samy-kourbaj.jpeg
     caption: "The project incorporates a wide variety of public engagement events and workshops, centred around the material culture of the three islands and the East Mediterranean. Copyright Samy Kourbaj"
   -
     file: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant47/GR_302_1892_1_201611_kly25_dc2.jpg
     caption: "Altar with Cypro-Classical inscription (500-300 BCE), from Tamassos, Cyprus. Copyright Fitzwilliam Museum 2020"
-  -
-    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/lapta_oldvillage-1-.jpg
-    caption: "Yorgos Petrou rerecording abandoned houses in Ano Keryneia district, North Cyprus, May 2019 @Petrou & Christophilopoulou 2019"
+
   -
     file: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant38/GR_1_1835.jpg
     caption: "A Middle Roman (100- 200 CE) sarcophagus, the ‘Pashley sarcophagus, from the port of Arvi, South Crete Copyright Fitzwilliam Museum 2020"
   -
     file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/img_6583-1.jpg
     caption: "An abandoned traditional house in Ano Keryneia district, North Cyprus, incorporating archaeological material (spolia), recorded by Yorgos Petrou & A. Christophilopoulou, May 2019 @Petrou & Christophilopoulou 2019."
+  -
+    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/sardinia_trip-222-1-.jpg
+    caption: "The Bronze Age site of Su Nuraxi di Barumini , in Marmilla, south-central Sardinia (Province of Medio Campidano). Photo @ Christophilopoulou 2019"
 ---
 
 **‘Being an Islander: Art and Identity of the Large Mediterranean Islands'** runs as a research project between 2019 and 2023, with a major exhibition opening on 21 February 2023 and closing on 4 June 2023.
