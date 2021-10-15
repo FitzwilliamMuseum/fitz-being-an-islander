@@ -1,0 +1,130 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.573711, 34.707147 ]
+    },
+    "properties" : {
+      "titles" : "(Nea) Paphos, (Palai)Paphos",
+      "annotations" : 2
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/707586", "http://pleiades.stoa.org/places/707596" ],
+    "titles" : [ "(Nea) Paphos", "(Palai)Paphos" ],
+    "names" : [ "Nea Paphos", "Paphos", "Erythrai", "Erythra", "Sebaste Claudia Flavia Paphos", "Palaipaphos", "Paphos", "Pa-ap-pa" ],
+    "place_types" : [ "settlement", "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org", "http://pleiades.stoa.org" ],
+    "quotes" : [ "Neapaphos", "Palaipaphos" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.6306, 34.92319 ]
+    },
+    "properties" : {
+      "titles" : "Kition",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/707534" ],
+    "titles" : [ "Kition" ],
+    "names" : [ "Kition", "Citium", "Qarth.adašt" ],
+    "place_types" : [ "settlement", "temple-2" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Kition" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.1438299, 34.712174 ]
+    },
+    "properties" : {
+      "titles" : "Amathous",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/707462" ],
+    "titles" : [ "Amathous" ],
+    "names" : [ "Amathous", "Cinyria", "Nuria", "Qarth.adašt" ],
+    "place_types" : [ "settlement", "cemetery", "port" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Amathous" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.39218, 37.74747 ]
+    },
+    "properties" : {
+      "titles" : "Nicosia",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/2524009" ],
+    "titles" : [ "Nicosia" ],
+    "names" : [ "Nicosia Sicilia", "Nicosia", "Nicosia", "Nicosia", "Nicosia", "Nicosia" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "quotes" : [ "Nicosia" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.8702488, 35.1659327 ]
+    },
+    "properties" : {
+      "titles" : "Enkomi",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/13818291" ],
+    "titles" : [ "Enkomi" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Enkomi" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.423, 35.01586 ]
+    },
+    "properties" : {
+      "titles" : "Idalion",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/707519" ],
+    "titles" : [ "Idalion" ],
+    "names" : [ "Idalion", "I-di'-al" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Idalion" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.4254347, 35.0389664 ]
+    },
+    "properties" : {
+      "titles" : "Marion",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/707574" ],
+    "titles" : [ "Marion" ],
+    "names" : [ "Marion", "Nu-ri-ia" ],
+    "place_types" : [ "settlement" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Marion" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.6096042, 34.8854512 ]
+    },
+    "properties" : {
+      "titles" : "Hala Sultan Tekke",
+      "annotations" : 1
+    },
+    "uris" : [ "http://pleiades.stoa.org/places/790744210" ],
+    "titles" : [ "Hala Sultan Tekke" ],
+    "names" : [ "Hala Sultan Tekkesi", "Hala Sultan Tekke" ],
+    "place_types" : [ "cemetery", "settlement", "mosque", "shrine" ],
+    "source_gazetteers" : [ "http://pleiades.stoa.org" ],
+    "quotes" : [ "Hala Sultan Tekke" ]
+  } ]
+}

@@ -21,9 +21,9 @@ var dareLayer = L.tileLayer('https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png', {
           minZoom: 5,
           maxZoom: 11
         });
-
+{% for json in page.geoJson %}
   // load GeoJSON from an external file
-  $.getJSON("{{site.baseurl}}{{page.geoJson}}",function(data){
+  $.getJSON("{{site.baseurl}}{{json.file}}",function(data){
     // add GeoJSON layer to the map once the file is loaded
     L.geoJson(data, {
   onEachFeature: function (feature, layer) {
@@ -31,5 +31,6 @@ var dareLayer = L.tileLayer('https://dh.gu.se/tiles/imperium/{z}/{x}/{y}.png', {
   }
 }).addTo(map);
   });
+{% endfor %}
 </script>
 {% endif %}
