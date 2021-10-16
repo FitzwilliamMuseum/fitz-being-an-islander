@@ -1,0 +1,21 @@
+{% if page.institution %}
+<div class="container-fluid bg-pastel ">
+  <div class="container my-2 p-3">
+    <h3 class="lead text-info">Social profiles and affiliations</h3>
+    {% if page.job-title %}
+    <p>
+      {{ page.job-title}}
+    </p>
+    {% endif %}
+    <p>
+      <span class="badge badge-dark p-2 mb-2">{{ page.institution}}</span>
+      {% if page.twitter %}
+      <a class="badge badge-dark p-2 mb-2" href="https://twitter.com/{{ page.twitter | replace: "@", "" }}" ><i class="fab fa-twitter"></i>  {{ page.twitter }}</a>
+      {% endif %}
+      {% if page.orcid %}
+      <a class="badge badge-dark p-2 mb-2" href="https://orcid.org/{{ page.orcid }}" >Orcid: {{ page.orcid }}</a>
+      {%endif%}
+    </p>
+  </div>
+</div>
+{% endif %}
