@@ -2,24 +2,24 @@
 layout: news
 title: Mobility
 image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant44/GR_1_1917_1_201410_jas244_dc2.jpg
-caption: "Hellenistic statuette (200 BCE) of a seated child holding dove, © The Fitzwilliam Museum, Cambridge 2020."
+caption: "Hellenistic statuette (200 BCE) of a seated child holding dove. Copyright Fitzwilliam Museum 2020."
 order: 2
 images:
   -
     file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/efnvcrtwsaefbik-copy-1-.jpg
-    caption: The Archaeological site of Knossos, Crete. Photo Copyright Christophilopoulou 2021
+    caption: "The Archaeological site of Knossos, Crete. Photo @ Christophilopoulou 2021."
   -
     file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/image00218.jpg
-    caption: "Cypro-Archaic (750-600 BCE) bichrome barrel-shaped jug with concentric circles and stylised birds, from Cyprus @Fitzwilliam Museum 2020"
+    caption: "Cypro-Archaic (750-600 BCE) bichrome barrel-shaped jug with concentric circles and stylised birds, from Cyprus. Copyright Fitzwilliam Museum 2020."
   -
     file: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant47/GR_25_1890_1_201604_kly25_dc2.jpg
-    caption: "Archaic terrocota figurine head from Salamis (600 BCE — 501 BCE)"
+    caption: "Archaic terracota figurine head from Salamis (600—501 BCE). Copyright Fitzwilliam Museum."
   -
     file: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant9/GR_6a_1939_281_29.jpg
-    caption: "Early Bronze Age pottery from the Vounous Cemetery, North Cyprus. @ Fitzwilliam museum 2020."
+    caption: "Early Bronze Age pottery from the Vounous Cemetery, North Cyprus. Copyright Fitzwilliam Museum 2020."
   -
     file: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant48/GR_100_1888_1_201706_sjc288_dc2.jpg
-    caption: "Middle Roman (100 - 300 CE) glass unguentarium from Cyprus"
+    caption: "Roman Imperial period (100-300 CE) glass unguentarium from Cyprus. Copyright Fitzwilliam Museum."
 
 ---
 
