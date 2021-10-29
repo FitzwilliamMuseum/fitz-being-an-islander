@@ -27,7 +27,6 @@ While islands and mainlands differ in many aspects, they are circumscribed by co
 
 The islands enclosed by the Mediterranean Sea thus comprise diverse cultural environments characterised by an unusual degree of interconnectivity. Connectivity has been an important feature of island life, as the sea can be a linking rather than just a dividing body, motivating and maintaining informal and formal connections. This has been increasingly evident in the study of the archaeology, art, and history of the Mediterranean islands from the antiquity to the present,<sup>[12](#f12)</sup> and a recognition of islands’ special position within the Mediterranean landscape gave rise to a branch of research, island archaeology.<sup>[13](#f13)</sup> Recent scholarship on the Mediterranean islands gives the primacy to human agency, characterised by both opportunities and restrictions, by emphasising a relational view of island-human interaction.<sup>[14](#f14)</sup> Being an Islander project follows this current development in research and seeks to illustrate the manifold connections within and also between islands.
 
-The intensity of long and short distant connectivity waxed and waned through the Bronze and Iron Ages and increased significantly between the Archaic to the Roman periods. During the Middle Bronze Age, spatial proximity of the Aegean islands to one other, as well as the surrounding landmass, enabled intensive connections and Crete emerged as a consolidating power in the interlinked world. During the Late Bronze and Iron Ages, Cyprus resisted the incorporation into the neighbouring powerful land-based empires despite being located close to the southern Anatolian and the Levantine landmass; instead, islanders chose to align themselves more closely with the Greek cultural sphere.<sup>[15](#f15)</sup> Sardinia was distant, relatively speaking, from the north African and south European mainlands, and through much of its history its inhabitants embraced insular identities despite being a part of significant trade networks with metal resources in the Late and Final Bronze Ages and despite providing a locus for Phoenician and Punic activities in the Iron Ages and Punic and Roman times.<sup>[16](#f16)</sup> From the Archaic period onward, Mediterranean islands more generally became increasingly integrated into long-distance networks propelled by the Phoenicians and the Greeks, for whom the sea presented a focal point of economic, political, and social opportunities.<sup>[17](#f17)</sup> The concomitant cultural convergence, however, enfolded against a backdrop of plurality. This is in no small part visible during the Roman period when many islands had to reposition themselves in terms of international visibility against the background of an increased control of the Mediterranean extended by a single centre, Rome. Cyprus, for example, has been thought of as backwaters due to the Roman dominion of the island and the shifting Mediterranean resource networks under the expanding empire, but recent reanalyses highlight its centrality in shaping provincial connections and its plurality in terms of increased consumption of ‘globalised’ Roman material culture in the port cities vis à vis more ‘insular’ expressions of local identities in the hinterland.<sup>[18](#f18)</sup>
 
 ## Footnotes
 {: .text-info .lead }
@@ -46,11 +45,7 @@ The intensity of long and short distant connectivity waxed and waned through the
 <a name="f12" class="anchor">12</a>: For sea as a dividing body and islands as isolated see Braudel 1972; for sea as a connector see Horden and Purcell 2000; Broodbank 2013.  
 <a name="f13" class="anchor">13</a>: Broodbank 2000; Bevan and Conolly 2013.  
 <a name="f14" class="anchor">14</a>: Dawson 2014.  
-<a name="f15" class="anchor">15</a>: Karageorghis 2013.    
-<a name="f16" class="anchor">16</a>: Lo Schiavo 2003.
-<a name="f17" class="anchor">17</a>: Constantakopoulou 2007, 2; Gordon and Kouremenos 2020,3.  
-<a name="f18" class="anchor">18</a>: Gordon 2018.  
-<a name="f19" class="anchor">19</a>: Sabatini and Lo Schiavo 2020.  
+
 
 ## Bibliography
 {: .text-info .lead }
@@ -66,12 +61,9 @@ The intensity of long and short distant connectivity waxed and waned through the
 * Constantakopoulou, C. 2007. The Dance of the Islands: Insularity, Networks, the Athenian Empire, and the Aegean World. Oxford University Press.
 * Dawson, H. 2014. Mediterranean Voyages. The Archaeology of Island Colonisation and Abandonment. Left Coast Press.
 * Georgiou, A., ed. 2012. Cyprus: An Island Culture. Society and Social Relations from the Bronze Age to the Venetian Period. Oxbow.
-* Gordon, J.M. 2018. “Insularity and identity in Roman Cyprus: connectivity, complexity, and cultural change.” In Insularity and Identity in the Roman Mediterranean, edited by A. Kouremenos, 4–40. Oxbow.
-* Kouremenos, A., and J.M. Gordon, eds. 2020. Mediterranean Archaeologies of Insularity in the Age of Globalization. Oxbow.
 * Horden, P., and N. Purcell. 2000. The Corrupting Sea: A Study of Mediterranean History. Blackwell.
 * Iacovou, M. 2013. “Historically elusive and internally fragile island polities: the intricacies of Cyprus’s political geography in the Iron Age.” Bulletin of the American School of Oriental Research 370: 15–47.
 * Janes, S. 2015. “An entangled past: island interactions, mortuary practices and the negotiation of identities in Early Iron Age Cyprus.” In The Cambridge Prehistory of the Bronze and Iron Age Mediterranean, edited by P. van Dommelen and A. B. Knapp, 571–584. Cambridge University Press.
-* Karageorghis, V. 2013. “Cyprus at the end of the Bronze [Age] again.” Pasiphae. Rivista di Filologia e Antichità Egee 7: 125–32.
 * Knapp, A.B. 2007. “Insularity and island identity in the prehistoric Mediterranean.” In Mediterranean Crossroads. Selected Papers of the International Conference, Athens, 10-13th May 2005, edited by S. Antoniadou and A. Pace, 37–62. Athens: Pierides Foundation.
 * Knapp, A.B. 2008. Prehistoric and Protohistoric Cyprus: Identity, Insularity, and Connectivity. Oxford University Press.
 * Knapp, A.B., and E. Blake, eds. 2004. Prehistory in the Mediterranean: The Connecting and Corrupting Sea. Blackwell.
