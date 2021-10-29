@@ -38,7 +38,7 @@ Being an Islander project therefore investigates a range of mobilities that char
 
 <a name="f1" class="anchor">1</a>: Horden and Purcell 2000.  
 <a name="f2" class="anchor">2</a>: Nazou 2020.  
-<a name="f3" class="anchor">3</a>: Broodbank 2000, 98; Knappett, Evans, and Rivers 2008, 1011.   
+<a name="f3" class="anchor">3</a>: Broodbank 2000, 98; Knappett, Evans and Rivers 2008, 1011.   
 <a name="f4" class="anchor">4</a>: Georgiou 1993, 360-361.  
 <a name="f5" class="anchor">5</a>: Broodbank 2013, 513; Papadopoulos 2014.  
 <a name="f6" class="anchor">6</a>: Broodbank 2013, 561.  
