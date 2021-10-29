@@ -19,7 +19,7 @@ images:
     caption: "Early Bronze Age pottery from the Vounous Cemetery, North Cyprus. Copyright Fitzwilliam Museum 2020."
   -
     file: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant48/GR_100_1888_1_201706_sjc288_dc2.jpg
-    caption: "Middle Roman period (100-300 CE) glass unguentarium from Cyprus. These small bottles contained perfume or ointments, and were widely traded. Copyright Fitzwilliam Museum."
+    caption: "Roman Imperial period (100-300 CE) glass unguentarium from Cyprus. These small bottles contained perfume or ointments, and were widely traded. Copyright Fitzwilliam Museum."
 
 ---
 
