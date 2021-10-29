@@ -7,10 +7,10 @@ order: 3
 images:
   -
     file: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant20/GR_151_1864_283_29.jpg
-    caption: "Late Minoan (1400-1200 BCE or later), Bronze female figurine of a worshipper. Bronze Age Cypriot and Minoan figurines make up the core of the research analysis on ancient metals, a collaboration between the Fitzwilliam Museum and the McDonald Institute for Archaeological research, Cambridge. Cambridge."
+    caption: "Late Minoan (1400-1200 BCE or later) bronze female figurine of a worshipper. Bronze Age Cypriot and Minoan figurines make up the core of the research analysis of ancient metals, a collaboration between the Fitzwilliam Museum and the McDonald Institute for Archaeological Research at the University of Cambridge"
   -
     file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/oxhide-ingots-sardinia_n-1-.jpg
-    caption: "A Bronze Age oxhide ingot, at the collections of the National Archaeological Museum of Cagliari, Sardinia. Photo @ Christophilopoulou 2020"
+    caption: "A Bronze Age oxhide ingot, from the collections of the National Archaeological Museum of Cagliari, Sardinia. Bronze ingots were imported to Sardinia from Cyprus during the end of the Late Bronze and the beginning of Early Iron Ages. Photo @ Christophilopoulou 2020"
 ---
 
 The project’s core research questions, offering a critical re-examination of the concept of island life, are explored in a distinct sub-project which investigates the materials, methods of production and use of metal objects from Cyprus, Crete and Sardinia, dating from the Early Bronze Age to the beginning of the Classical period (ca 2000-500 BCE). As materials from Cyprus are particularly well represented in the collections of the Fitzwilliam Museum, conservation and scientific research has focused primarily on metalware from this particular island.
