@@ -2,7 +2,7 @@
 layout: news
 title: Conference
 image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/eggnj5su4aqsk18-copy-1-.jpg
-caption: "View of the A. G. Leventis Gallery of Ancient Cyprus at the Fitzwilliam Museum/ Copyright Fitzwilliam Museum 2021."
+caption: "View of the A. G. Leventis Gallery of Ancient Cyprus at the Fitzwilliam Museum. Copyright Fitzwilliam Museum 2021."
 order: 5
 images:
   -
