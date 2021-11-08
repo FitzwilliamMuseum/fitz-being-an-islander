@@ -10,7 +10,19 @@ images:
     caption: "Late Minoan (1400-1200 BCE or later) bronze female figurine of a worshipper. Bronze Age Cypriot and Minoan figurines make up the core of the research analysis of ancient metals, a collaboration between the Fitzwilliam Museum and the McDonald Institute for Archaeological Research at the University of Cambridge."
   -
     file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/oxhide-ingots-sardinia_n-1-.jpg
-    caption: "A Bronze Age oxhide ingot, from the collections of the National Archaeological Museum of Cagliari, Sardinia. Bronze ingots were imported to Sardinia from Cyprus during the end of the Late Bronze and the beginning of Early Iron Ages. Photo @ Christophilopoulou 2020."
+    caption: "A Bronze Age oxhide ingot, from the collections of the National Archaeological Museum of Cagliari, Sardinia. Bronze ingots were imported to Sardinia from Cyprus during the end of the Late Bronze and the beginning of Early Iron Ages. Photo Copyright Christophilopoulou 2020."
+  -
+    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/metals_study.jpg
+    caption: "Conservator Susanna Pancaldo prepares for micro-CT scanning of the iron Cypriot sword (GR.334.1892) at the Department of Zoology, University of Cambridge."
+  -
+    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/metals_sword.jpg
+    caption: "X-Radiograph and Scanning Electron Microscope images of the Cypriot sword (GR.334.1892). Copyright Fitzwilliam Museum 2021."
+  -
+    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/metals_calf.jpg
+    caption: "Detail image showing the calf-head terminal of a gold earring from Cyprus (GR.4.1891). Copyright Fitzwilliam Museum 2021."
+  -
+    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/metals_team.jpg
+    caption: "Collaborative working: Susanna Pancaldo, Ema Bauzyte and Julie Dawson (not pictured) discuss research on the iron Cypriot sword (GR.334.1892)."
 ---
 
 The project’s core research questions, offering a critical re-examination of the concept of island life, are explored in a distinct sub-project which investigates the materials, methods of production and use of metal objects from Cyprus, Crete and Sardinia, dating from the Early Bronze Age to the beginning of the Classical period (ca 2000-500 BCE). As materials from Cyprus are particularly well represented in the collections of the Fitzwilliam Museum, conservation and scientific research has focused primarily on metalware from this particular island.
