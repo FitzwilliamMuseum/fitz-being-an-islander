@@ -6,13 +6,6 @@ date: 2019-09-05
 updated: 2019-02-12
 image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant45/GR_2_1891_1_201603_mfj22_dc1.jpg
 caption: "Torso of Dionysos from the Roman Gymnasium of Salamis, East Cyprus (Middle Roman 100 – 200 CE). Copyright Fitzwilliam Museum 2020."
-images:
-  -
-    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/crews_display_006_201803_sjc288_dc1-copy-1-.jpg
-    caption: "View of the Greek and Roman Gallery from the A. G. Leventis Gallery of Ancient Cyprus. @ Fitzwilliam Museum 2019."
-  -
-    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/image00161.jpg
-    caption: "The Cha gorge with the LMIIC refugee occupation, Est Crete, photographed from the Katalymata site, Ierapetra region. @ Christophilopoulou 2020."
 ---
 The Fitzwilliam Museum announces an exciting new dimension to the research and exhibition project ***‘Being an Islander’: Art and Identity of the Large Mediterranean Islands***, a four-year project aiming to elucidate what defines island identity in the Mediterranean. Research (2019-2023) is conducted by a team of curators, researchers, conservators, learning, engagement and digital specialists, enhanced by contemporary artists and invited specialists from a variety of European and American research institutions, universities and museums.
 
