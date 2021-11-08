@@ -3,7 +3,7 @@ title: Rafael Laoutari
 institution: Department of Archaeology and Fitzwilliam Museum, Cambridge
 job-title: PhD Candidate
 order: 15
-image:
+image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/rafael_profile.jpg
 layout: news
 ---
 

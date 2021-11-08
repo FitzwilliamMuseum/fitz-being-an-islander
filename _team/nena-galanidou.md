@@ -3,7 +3,7 @@ title: Professor Nena Galanidou
 institution: Department of History and Archaeology, School of Philosophy, University of Crete
 job-title: Professor of Prehistoric Archaeology, Director of the Paleolithic Lesbos Project
 order: 17
-image:
+image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/galanidou.jpg
 layout: news
 caption: Professor Nena Galanidou
 ---

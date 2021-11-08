@@ -3,7 +3,7 @@ title: Professor Katerina Kopaka
 order: 16
 institution: Department of History and Archaeology, School of Philosophy, University of Crete
 job-title: Professor Emerita
-image:
+image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/katerina_kopaka.jpg
 layout: news
 ---
 Katerina Kopaka has been an undergraduate and post-graduate student at the University of Paris I (Sorbonne), where she also completed her Ph.D, reading Aegean Prehistory and Protohistory – her doctoral thesis is on House Inner Arrangements and Domestic Activities in Bronze Age Crete and Thera.
