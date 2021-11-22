@@ -42,7 +42,7 @@ Being an Islander project therefore investigates a range of mobilities that char
 <a name="f4" class="anchor">4</a>: Georgiou 1993, 360-361.  
 <a name="f5" class="anchor">5</a>: Broodbank 2013, 513; Papadopoulos 2014.  
 <a name="f6" class="anchor">6</a>: Broodbank 2013, 561.  
-<a name="f7" class="anchor">7</a>: Greene 2018, 133-135.
+<a name="f7" class="anchor">7</a>: Greene 2018, 133-135. 
 <a name="f8" class="anchor">8</a>: Dawson 2021.  
 <a name="f9" class="anchor">9</a>: Broodbank 2013, 78; Berg 2019.  
 <a name="f10" class="anchor">10</a>: Cadogan et al. 2012; Georgiou 2012; Lo Schiavo and Campus 2013; Russel and Knapp 2017; Halbertsma and Pilides 2019.   
