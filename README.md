@@ -14,7 +14,7 @@ Holding webpages for a forthcoming exhibition.
 ## Credits
 
 Website by [@portableant](https://github.com/portableant)
-Front end - Bootstrap 4.x and PagePiling.js
+Front end - Bootstrap 4.x
 
 ## License
 
