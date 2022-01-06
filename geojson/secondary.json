@@ -52,21 +52,6 @@
     "type" : "Feature",
     "geometry" : {
       "type" : "Point",
-      "coordinates" : [ 14.39218, 37.74747 ]
-    },
-    "properties" : {
-      "titles" : "Nicosia",
-      "annotations" : 1
-    },
-    "uris" : [ "http://sws.geonames.org/2524009" ],
-    "titles" : [ "Nicosia" ],
-    "names" : [ "Nicosia Sicilia", "Nicosia", "Nicosia", "Nicosia", "Nicosia", "Nicosia" ],
-    "source_gazetteers" : [ "http://www.geonames.org" ],
-    "quotes" : [ "Nicosia" ]
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "type" : "Point",
       "coordinates" : [ 33.8702488, 35.1659327 ]
     },
     "properties" : {
