@@ -18,3 +18,4 @@ We included several case studies, such as filming in the region of the ancient t
 
 The film is produced with the kind permission of the Ministry of Culture, Greece and is under the auspices of the Municipality of Siphnos, region of Cyclades. We look forward to working with the Stavros Niarchos Foundation to produce a plan for the dissemination of the film in 2022 - in Greece, Cyprus and the United Kingdom.
 
+![](Documentary_BeingAnIslander4.png)
