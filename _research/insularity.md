@@ -7,7 +7,7 @@ order: 1
 images:
   -
     file: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant49/GR_5c_1939_1_201806_amt49_dc2.jpg
-    caption: "Early Bronze Age pottery from the Vounous Cemetery, North Cyprus. Copyright Fitzwilliam Museum 2020."
+    caption: "Early Bronze Age pottery from the Vounous Cemetery, north (occupied) Cyprus. Copyright Fitzwilliam Museum 2020."
   -
     file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/nicosia_n.jpg
     caption: "A mosque in the north district of Nicosia, Cyprus. Photo @ Christophilopoulou 2019."
@@ -15,7 +15,7 @@ images:
     file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/sardinia_trip-222-1-.jpg
     caption: "The Bronze Age site of Su Nuraxi Barumini, in Marmilla, south-central Sardinia (Province of Medio Campidano). Photo @ Christophilopoulou 2019."
 ---
-Throughout history, islands have been treated as distinct places, unlike mainland and continental masses. But are islands inherently different from mainlands? Historically in the Mediterranean, some islands rose to the role of mini-continents due to their size and economic and political importance. Ancient Greeks, for example, considered Sicily a continent in its own right.<sup>[1](#f1)</sup> Likewise, the large Mediterranean islands of Crete, Cyprus and Sardinia were often given a special status due to their size, occupying an intermediate position between small island worlds, such as the Aegean islands system, and the surrounding landmasses. The affiliated term ‘insularity’ – belonging to/being of an island – has been romanticised and associated with otherness both in the ancient and modern times.<sup>[2](#f2)</sup> 
+Throughout history, islands have been treated as distinct places, unlike mainland and continental masses. But are islands inherently different from mainlands? Historically in the Mediterranean, some islands rose to the role of mini-continents due to their size and economic and political importance. Ancient Greeks, for example, considered Sicily a continent in its own right.<sup>[1](#f1)</sup> Likewise, the large Mediterranean islands of Crete, Cyprus and Sardinia were often given a special status due to their size, occupying an intermediate position between small island worlds, such as the Aegean islands system, and the surrounding landmasses. The affiliated term ‘insularity’ – belonging to/being of an island – has been romanticised and associated with otherness both in the ancient and modern times.<sup>[2](#f2)</sup>
 
 Islands were first studied from an environmental perspective and were considered as ideal units of analysis due to their circumscribed local environments, finite resources and the uniqueness of their ecosystems. The early island studies drove the archaeological explorations of island societies, but they also carried a somewhat deterministic view of island life based on geographic boundaries and cultural relativism.<sup>[3](#f3)</sup> The emphasis on geographic insularity as a relatively timeless portrayal of island life, however, takes away from a deeper engagement with the concept of island identity. The degree of openness as well as the intensity of connections within and between islands fluctuated over time depending on historical circumstances.<sup>[4](#f4)</sup> Insularity is therefore a dynamic concept dependent on specific socio-historical conditions rather than mere geography. It is ultimately a form social identity – one’s sense of belonging to a group based on perceived social similarities and differences – and cultural strategy rather than a reflection of the islanders’ inability to connect with the people around them.<sup>[5](#f5)</sup>
 
@@ -31,20 +31,20 @@ The islands enclosed by the Mediterranean Sea thus comprise diverse cultural env
 ## Footnotes
 {: .text-info .lead }
 
-<a name="f1" class="anchor">1</a>: Rackham and Moody 1996, xi; Constantakopoulou 2007, 12-15; Kopaka and Cadogan 2012, 18-19.  
-<a name="f2" class="anchor">2</a>: For example, in Homer (e.g., Odyssey 5.60; 9.145-155; 10.1.5), Hesiod (Theognis 963-4), and Thucydides (I.143.4-5) (Constantakopoulou 2005, 2-3; 2007; Kopaka and Cadogan 2012, 19); for a comment on modern portrayal see Knapp 2007, 38-9.  
-<a name="f3" class="anchor">3</a>: For a critique of such approaches see Patton 1996, van Dommelen 1999; Broodbank 2000; Knapp 2007; Ulf 2008; Cadogan, Iacovou, Kopaka, and Whitley 2012.  
-<a name="f4" class="anchor">4</a>: Sahlins 1985; Knapp and Blake 2004; Knapp 2008; Broodbank 2013, 342.   
-<a name="f5" class="anchor">5</a>: Broodbank 2000; Cherry 2004; Gordon 2018, 10.   
-<a name="f6" class="anchor">6</a>: Iacovou 2013; Janes 2015.  
-<a name="f7" class="anchor">7</a>: Various contributions in Georgiou 2012 and Pilides and Papadimitriou 2012.   
-<a name="f8" class="anchor">8</a>: Blake 1999; 2015.  
-<a name="f9" class="anchor">9</a>: Boomert and Bright 2007, 18.  
-<a name="f10" class="anchor">10</a>: Broodbank 2000, fig. 4.  
-<a name="f11" class="anchor">11</a>:  Kopaka and Cadogan 2012.    
-<a name="f12" class="anchor">12</a>: For sea as a dividing body and islands as isolated see Braudel 1972; for sea as a connector see Horden and Purcell 2000; Broodbank 2013.  
-<a name="f13" class="anchor">13</a>: Broodbank 2000; Bevan and Conolly 2013.  
-<a name="f14" class="anchor">14</a>: Dawson 2014.  
+<a name="f1" class="anchor">1</a>: Rackham and Moody 1996, xi; Constantakopoulou 2007, 12-15; Kopaka and Cadogan 2012, 18-19.
+<a name="f2" class="anchor">2</a>: For example, in Homer (e.g., Odyssey 5.60; 9.145-155; 10.1.5), Hesiod (Theognis 963-4), and Thucydides (I.143.4-5) (Constantakopoulou 2005, 2-3; 2007; Kopaka and Cadogan 2012, 19); for a comment on modern portrayal see Knapp 2007, 38-9.
+<a name="f3" class="anchor">3</a>: For a critique of such approaches see Patton 1996, van Dommelen 1999; Broodbank 2000; Knapp 2007; Ulf 2008; Cadogan, Iacovou, Kopaka, and Whitley 2012.
+<a name="f4" class="anchor">4</a>: Sahlins 1985; Knapp and Blake 2004; Knapp 2008; Broodbank 2013, 342.
+<a name="f5" class="anchor">5</a>: Broodbank 2000; Cherry 2004; Gordon 2018, 10.
+<a name="f6" class="anchor">6</a>: Iacovou 2013; Janes 2015.
+<a name="f7" class="anchor">7</a>: Various contributions in Georgiou 2012 and Pilides and Papadimitriou 2012.
+<a name="f8" class="anchor">8</a>: Blake 1999; 2015.
+<a name="f9" class="anchor">9</a>: Boomert and Bright 2007, 18.
+<a name="f10" class="anchor">10</a>: Broodbank 2000, fig. 4.
+<a name="f11" class="anchor">11</a>:  Kopaka and Cadogan 2012.
+<a name="f12" class="anchor">12</a>: For sea as a dividing body and islands as isolated see Braudel 1972; for sea as a connector see Horden and Purcell 2000; Broodbank 2013.
+<a name="f13" class="anchor">13</a>: Broodbank 2000; Bevan and Conolly 2013.
+<a name="f14" class="anchor">14</a>: Dawson 2014.
 
 
 ## Bibliography
