@@ -1,14 +1,18 @@
 ---
-layout: gold
+layout: news
 title: Documentary
 order: 1
 image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/preview_GR_19_1917_20_281_29.jpg
+images:
+    -
+        file: https://github.com/FitzwilliamMuseum/fitz-being-an-islander/raw/main/_resources/Documentary_BeingAnIslander6.jpg
+        caption: "Test image"
 ---
 
 The undertaking of the Being an Islander documentary was the single most creative and original part of the 2021 engagement project, generously supported by the Stavros Niarchos Foundation. Research on the documentary’s content started in January 2021 with Dr Christophilopoulou drafting the core ideas and case studies of the documentary’s content, followed by the recruitment of a producer to undertake the film. Three very qualified film candidates submitted proposals, and Dr Dimitrios Bouras, an acclaimed documentarist and photographer was selected in the competition. Dr Bouras also brings expertise in anthropological filmmaking and is now an active part of our research team, as described below in the research section.
 
-The film benefits from the research advisory Board, comprising Dr Christophilopoulou (Archaeology) and Dr Bouras (Social Anthropology) as principal researchers, as well as Dr Nicholas Anastasopoulos (Architecture), Dr Christos Lynteris (Ethnoarchaeology), Dr Nikos Panagiotou (Journalism), Ms Maria Nadali, Mayor of Siphnos (sustainable development, modern insular identities) 
-Dr David Evans, Fitzwilliam Museum (contemporary art and insularity) and Dr Neal Spencer, Fitzwilliam Museum Deputy Director (integrating project work into wider museum perspectives). The production team consisted of Dr Bouras (Executive producers and film director), Dr Christophilopoulou, Orestis Seferoglou (Camera/drone), Manos Makrigiannakis (Editor), Kostas Pappas (Art Director, Aesthetics), Amalia Symeonidou (Production Design) and Andriana Theochari (Script Supervisor, Assistant Producer). 
+The film benefits from the research advisory Board, comprising Dr Christophilopoulou (Archaeology) and Dr Bouras (Social Anthropology) as principal researchers, as well as Dr Nicholas Anastasopoulos (Architecture), Dr Christos Lynteris (Ethnoarchaeology), Dr Nikos Panagiotou (Journalism), Ms Maria Nadali, Mayor of Siphnos (sustainable development, modern insular identities)
+Dr David Evans, Fitzwilliam Museum (contemporary art and insularity) and Dr Neal Spencer, Fitzwilliam Museum Deputy Director (integrating project work into wider museum perspectives). The production team consisted of Dr Bouras (Executive producers and film director), Dr Christophilopoulou, Orestis Seferoglou (Camera/drone), Manos Makrigiannakis (Editor), Kostas Pappas (Art Director, Aesthetics), Amalia Symeonidou (Production Design) and Andriana Theochari (Script Supervisor, Assistant Producer).
 
 The 45 minute film investigates the theme of insularity as a social construct and as a form of social and cultural identity. We employ methodology from the fields of sensory archaeology, experimental archaeology, and ethnographic approach to elucidate what defines island identities in the Eastern Mediterranean, a place where the European and the Asian-African bio-geographical history and evolution intersect, using a specific island, Siphnos, Cyclades, Greece as a ‘research model’.
 
@@ -16,6 +20,4 @@ Filming started in Cambridge 5-10 October 2021, with an array of interviews, inc
 
 We included several case studies, such as filming in the region of the ancient tower of Siphnos (‘phryctories’), a system of communication and signalling designed initially to protect the mining area of the island, but later also used to control agricultural landscapes, exemplifying the continuity of landscape use and resources in the island’s metalliferous regions. Another case study included filming at the Atsonios pottery workshop, which has been active for 400 years, with the master potter describing his craft, resources, and long diachronic presence of Siphnian potters in the most engaging way. Pottery workshops, particularly those devoted to the manufacture of cooking pots has been a centuries old craft in Siphnos. The craft, entangled in the island’s connectivity, idiosyncrasies and its resources, made a perfect episode of our documentary.
 
-The film is produced with the kind permission of the Ministry of Culture, Greece and is under the auspices of the Municipality of Siphnos, region of Cyclades. We look forward to working with the Stavros Niarchos Foundation to produce a plan for the dissemination of the film in 2022 - in Greece, Cyprus and the United Kingdom.
-
-![](Documentary_BeingAnIslander4.png)
+The film is produced with the kind permission of the Ministry of Culture, Greece and is under the auspices of the Municipality of Siphnos, region of Cyclades.
