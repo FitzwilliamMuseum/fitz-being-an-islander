@@ -3,7 +3,7 @@ order: 10
 title: Dr Polyxeni Adam-Veleni
 institution: Antiquities and Cultural Heritage, Greece
 job-title: Director General
-image:
+image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/dr-veleni-.jpg
 layout: news
 ---
 

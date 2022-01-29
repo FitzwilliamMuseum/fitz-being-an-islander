@@ -4,7 +4,7 @@ title: Dr Marina Solomidou-Ieronymidou
 institution: Department of Antiquities, Nicosia, Cyprus
 job-title: Director
 layout: news
-image:
+image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/marina-ieronymidou.opt_.jpg
 ---
 Dr Marina Solomidou-Ieronymidou, Director of the Department of Antiquities, graduated from Sorbonne University (Paris IV) in 1980 and obtained her D.E.U.G. (1979), Licence (1980) and Maîtrise (1981) in Archaeology and Art History, while in 1984 she received her postgraduate title D.E.A. in Archaeology.  In 2001 she received her PhD with honors in Medieval Archaeology from Sorbonne University (Paris I).  She is a member of the Department of Antiquities since 1986.  She was promoted to an a Curator of Antiquities (Ancient Monuments Sector) in 2006, where she was responsible for the coordination of works in relation to the conservation, restoration, protection and promotion of all Ancient Monuments in Cyprus. In 2014 she was appointed Director of the Department of Antiquities.
 
