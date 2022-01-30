@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Ancient food and insular diet
-image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/preview_GR_19_1917_20_281_29.jpg
+image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/documentarybeinganislander2.jpg
 order: 4
 ---
 

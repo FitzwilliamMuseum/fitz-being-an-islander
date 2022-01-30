@@ -2,11 +2,35 @@
 layout: news
 title: Documentary
 order: 1
-image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/preview_GR_19_1917_20_281_29.jpg
+image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/dbp_9287-9_tm_1500.jpg
 images:
     -
         file: https://github.com/FitzwilliamMuseum/fitz-being-an-islander/raw/main/_resources/Documentary_BeingAnIslander6.jpg
-        caption: "Test image"
+        caption:  The Being an Islander Documentary was produced in Cambridge and in Siphnos, Greece, between October- December 2021.
+
+    -   file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/filming_neal1.jpg
+        caption: Filming of the BAI documentary started in Cambridge 5-10 October 2021, with an array of interviews, including our Deputy Director for Collections and Research, Dr Neal Spencer and Professor Marcos Martinon -Torres, of the Department of Archaeology & McDonald Institute for Archaeological Research.
+
+    -   file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/02-pxl_20210630_111217621-b.jpg
+        caption: Dr Bouras on set of the BAI documentary, Siphnos, November 2021.
+
+    -   file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/pxl_20211120_105130997.jpg
+        caption: Anastasia interviewing a traditional stone terrace mason, Siphnos, November 2021.
+
+    -   file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/siphnos_castle.jpg
+        caption: Anastasia narrating the construction techniques of the defensible wall of Kastro, Siphnos, 21 November 2021. Kastro, or ancient ‘Asty’, became the capital settlement of Siphnos after the 6thc ce. BCE at the onset of the silver mining activity in the island.
+
+    -   file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/sifnos-loaction_winter_vs_summer.jpg
+        caption: The documentary includes impressive landscape photography by two acclaimed documentarists and photographers, Dr Dimitrios Bouras and Mr Orestis Seferoglou.
+
+    -   file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/dbp_9900_fr.jpg
+        caption: The film incorporates unique interviews with local communicty members, touching upon the diachronic presence of island ways of life, as well as issues of recourcing, mobility and conenctivity, or sustainability and climate change.
+
+    -   file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/pxl_20211118_091149401.jpg
+        caption: The site of Agios Andreas, Siphnos, an important Late Bronze Age and Early Iron Age settlement on the island. Anastasia and Prof Nicholas Anastasopoulos (Department of Architecture, University of Athens) discussed the evolution of the site diachronically.
+
+    -   file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/pxl_20211124_122257753.jpg
+        caption: The entire filming crew, during the last day of filming, at the highest point in the island, monastery of Agios Symeon.
 ---
 
 The undertaking of the Being an Islander documentary was the single most creative and original part of the 2021 engagement project, generously supported by the Stavros Niarchos Foundation. Research on the documentary’s content started in January 2021 with drafting the core ideas and case studies of the documentary’s content, followed by the recruitment of the production team. Dr Dimitrios Bouras, an acclaimed documentarist and photographer brings his expertise in anthropological filmmaking and is an active member of our research team.

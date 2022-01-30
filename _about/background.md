@@ -7,7 +7,7 @@ caption: "The Bronze Age site of Su Nuraxi di Barumini, in Marmilla, south-centr
 images:
   -
     file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/lapta_oldvillage-1-.jpg
-    caption: "Artist Yorgos Petrou is shown rerecording abandoned houses in Ano Keryneia district, North Cyprus, in May 2019. @Petrou & Christophilopoulou 2019."
+    caption: "Artist Yorgos Petrou is shown recording abandoned houses in Ano Keryneia district, north (occupied) Cyprus, in May 2019. @Petrou & Christophilopoulou 2019."
   -
     file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/eye-idol-15-image-taken-by-samy-kourbaj.jpeg
     caption: "The project incorporates a wide variety of public engagement events and workshops, centred around the material culture of the three islands and the East Mediterranean. Copyright Samy Kourbaj."
@@ -20,7 +20,7 @@ images:
     caption: "A Middle Roman Imperial period (100- 200 CE) sarcophagus, the Pashley sarcophagus, from the port of Arvi, South Crete. Copyright Fitzwilliam Museum 2020."
   -
     file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/img_6583-1.jpg
-    caption: "An abandoned traditional house in Ano Keryneia district, North Cyprus, incorporating archaeological material (spolia), as recorded by Yorgos Petrou & A. Christophilopoulou, May 2019. @Petrou & Christophilopoulou 2019."
+    caption: "An abandoned traditional house in Ano Keryneia district, north (occupied) Cyprus, incorporating archaeological material (spolia), as recorded by Yorgos Petrou & A. Christophilopoulou, May 2019. @Petrou & Christophilopoulou 2019."
   -
     file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/sardinia_trip-222-1-.jpg
     caption: "The Bronze Age site of Su Nuraxi di Barumini, in Marmilla, south-central Sardinia (Province of Medio Campidano), is one of the central sites featured as part of the Being an Islander project. Photo @ Christophilopoulou 2019."

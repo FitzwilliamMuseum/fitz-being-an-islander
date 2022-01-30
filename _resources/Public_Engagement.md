@@ -1,8 +1,25 @@
 ---
-layout: gold
+layout: news
 title: Public Engagement and Community participation
 order: 1
-image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant39/preview_GR_19_1917_20_281_29.jpg
+image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/241990853_6742748452417637_3518622281112730705_n.jpg
+images:
+    -
+        file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/241941709_6742754359083713_1747896744418370228_n.jpg
+        caption: Visit of the NEPOMAK network of Cypriot youth (Being an Islander community partner) to the Fitzwilliam Museum, September 2021
+    -
+        file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/screenshot-2021-03-15-at-17.41.28.png
+        caption: A snapshot and reactions from the audience from Issam Kourbaj’ s ‘Imploded, burnt, turned to ash’ sound and drawing performance, March 2021, co-organised by   the Fitzwilliam Museum, Kettle’s Yard Museum and the Heong Gallery.
+    -
+        file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/leave-to-remain_kourbaj-1.jpg
+        caption: Issam Kourbaj’ s poetry collection on the Mediterranean refugee crisis, published in 2020, presented during the panel talk.
+    -
+        file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/we-are-all-from-somewhere-else_padel.jpg
+        caption: Ruth Padel’s poetry and prose on the Mediterranean refugee crisis, was discussed during the panel talk.
+
+    -   file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/2021-06-17-3-.png
+        caption: Snapshots from the panel event 'Refugees in Museums'
+
 ---
 Since 2019, the project has implemented over 30 public engagement actions, workshops, talks, seminars nationally and internationally, in addition to learning activities inside and outside the Fitzwilliam Museum. Major public engagement outputs are expected as we approach the year of the exhibition (2023).
 A selection of our recent actions includes:
