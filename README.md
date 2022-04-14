@@ -1,6 +1,8 @@
 # Being an Islander
 
-Holding webpages for a forthcoming exhibition.
+[![DOI](https://zenodo.org/badge/357702147.svg)](https://zenodo.org/badge/latestdoi/357702147)
+
+This jekyll website represents the research conducted by the Being an Islander team for the scheduled 2023 Fitzwilliam Museum exhibition. This has been built by the project team collaboratively, with them being taught how to use reproducible digital humanities skills. 
 
 ## To run locally
 
