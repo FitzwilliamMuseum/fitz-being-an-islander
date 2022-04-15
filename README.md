@@ -4,6 +4,8 @@
 
 This jekyll website represents the research conducted by the Being an Islander team for the scheduled 2023 Fitzwilliam Museum exhibition. This has been built by the project team collaboratively, with them being taught how to use reproducible digital humanities skills. 
 
+![Being an Islander Social Card](/images/layouts/beingAnIslanderSocialGithub.jpg)
+
 ## To run locally
 
 * Install Jekyll on your machine following these [instructions](https://jekyllrb.com/docs/installation/)
