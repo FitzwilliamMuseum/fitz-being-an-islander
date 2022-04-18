@@ -47,7 +47,7 @@
             "thumbnail": "{{ site.background | xml_escape }}",
             "image":  "{{ site.background | xml_escape }}"
             {% endif %}
-        }{% unless forloop.last %},{% endunless %}
+        },
     {% endfor %}
     {% for entry in site.research %}
         "{{ entry.url | slugify }}": {
@@ -63,7 +63,7 @@
             "thumbnail": "{{ site.background | xml_escape }}",
             "image":  "{{ site.background | xml_escape }}"
             {% endif %}
-        }{% unless forloop.last %},{% endunless %}
+        },
     {% endfor %}
     {% for entry in site.team %}
         "{{ entry.url | slugify }}": {
@@ -79,7 +79,7 @@
             "thumbnail": "{{ site.background | xml_escape }}",
             "image":  "{{ site.background | xml_escape }}"
             {% endif %}
-        }{% unless forloop.last %},{% endunless %}
+        },
     {% endfor %}
     {% for entry in site.blog %}
         "{{ entry.url | slugify }}": {
