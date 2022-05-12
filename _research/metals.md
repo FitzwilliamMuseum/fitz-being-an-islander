@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Metals
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/gr.j.4_2_201706_sjc288_dc1-1-.jpg
+image: https://content.fitz.ms/fitz-website/assets/GR.J.4_2_201706_sjc288_dc1 (1).jpg?key=exhibition
 caption: "Fragments of a Hellenistic period (323-31 BCE) gold sheet excavated in Cyprus (of unknown provenance). An important dimension of the research conducted as part of the Being an Islander project is the scientific analysis of metal objects and metal fragments, focusing on the provenance of their materials, manufacture, and use."
 order: 3
 images:

@@ -3,7 +3,7 @@ title: Dr Michael Loy
 order: 14
 job-title: Assistant Director
 institution: British School at Athens
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/michael_loy.jpg
+image: https://content.fitz.ms/fitz-website/assets/michael_loy.jpg?key=exhibition
 layout: news
 ---
 As Assistant Director, I co-ordinate the BSA courses and teaching for both undergraduate and graduate students, and I manage the security and maintenance of the Athens hostel. I serve as Curator of the BSA museum, and I also contribute to the Archaeology in Greece Online project.

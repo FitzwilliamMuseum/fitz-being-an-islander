@@ -2,7 +2,7 @@
 layout: news
 title: Background
 order: 1
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/sardinia_trip-222-1-.jpg
+image: https://content.fitz.ms/fitz-website/assets/Sardinia_trip 222.JPG?key=exhibition
 caption: "The Bronze Age site of Su Nuraxi di Barumini, in Marmilla, south-central Sardinia (Province of Medio Campidano), is one of the central sites featured as part of the Being an Islander project. Photo @ Christophilopoulou 2019."
 images:
   -

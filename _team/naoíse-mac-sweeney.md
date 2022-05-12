@@ -1,6 +1,6 @@
 ---
 title: Professor Naoíse Mac Sweeney
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/csm_naoiseb_07a1d294b1.jpg
+image: https://content.fitz.ms/fitz-website/assets/csm_naoiseb_07a1d294b1.jpg?key=exhibition
 caption: Professor Naoíse Mac Sweeney
 institution: Institute for Classical Archaeology, Vienna
 job-title: Professor of Classical Archaeology

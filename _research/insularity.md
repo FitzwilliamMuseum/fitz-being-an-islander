@@ -2,7 +2,7 @@
 title: Insularity
 layout: news
 caption: Archaic (600 - 500 BCE) statuette of a man grappling with a lion from Cyprus. Copyright Fitzwilliam Museum.
-image: https://data.fitzmuseum.cam.ac.uk/imagestore/ant/ant47/GR_3b_1891_1_201608_kly25_dc2.jpg
+image: https://content.fitz.ms/fitz-website/assets/GR_3b_1891_1_201608_kly25_dc2.jpeg?key=exhibition
 order: 1
 images:
   -

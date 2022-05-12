@@ -3,7 +3,7 @@ order: 7
 title: Professor Marcos Martinón-Torres
 institution: McDonald Institute for Archaeological Research, Cambridge
 job-title: Pitt-Rivers Professor of Archaeological Science
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/a0scfnacaaevlgm.jpeg
+image: https://content.fitz.ms/fitz-website/assets/a0scfnacaaevlgm.jpeg?key=exhibition
 layout: news
 ---
 

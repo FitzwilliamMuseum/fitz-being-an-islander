@@ -2,7 +2,7 @@
 layout: news
 title: Public Engagement and Community participation
 order: 1
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/241990853_6742748452417637_3518622281112730705_n.jpg
+image: https://content.fitz.ms/fitz-website/assets/241990853_6742748452417637_3518622281112730705_n.jpg?key=exhibition
 images:
     -
         file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/241941709_6742754359083713_1747896744418370228_n.jpg
@@ -81,5 +81,3 @@ in 2021 we developed Being an Islander related content within our formal learnin
 - Object pottery and metalware handling session by the project’s curator and conservators for the Alumni Festival on September 27, 2019 (40 participants).
 
 - Professor Paul Cartledge and Dr Anastasia Christophilopoulou narrated the history of the city of Salamis, Cyprus and of the antiquities from the region now housed in the Fitzwilliam Museum in this video: <https://www.youtube.com/watch?v=mOEqLlBaVPY>
-
-

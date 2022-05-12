@@ -4,5 +4,5 @@ title: Dr David Evans
 layout: news
 job-title: Exhibitions Manager
 institution: Fitzwilliam Museum
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/david-.jpg
+image: https://content.fitz.ms/fitz-website/assets/David.jpg?key=exhibition
 ---

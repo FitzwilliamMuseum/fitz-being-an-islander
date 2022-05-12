@@ -1,7 +1,7 @@
 ---
 layout: funders
-title: Our team
-order: 2
+title: Our project alumni
+order: 4
 image: https://content.fitz.ms/fitz-website/assets/pxl_20211121_095309613.jpg?key=exhibition
 caption: "Principal Investigator: Anastasia Christophilopoulou"
 cards: true
@@ -9,10 +9,10 @@ cards: true
 
 <div class="container mb-3">
   <div class="row">
-{% assign rows = site.team.size | divided_by: 2.0 | ceil %}
+{% assign rows = site.alumni.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
 {% assign offset = forloop.index0 | times: 2 %}
-{% assign sorted = site.team | sort:"order" %}
+{% assign sorted = site.alumni | sort:"order" %}
     {% for article in sorted limit:2 offset:offset %}
     <div class="col-md-4 mb-3">
       <div class="card h-100" >

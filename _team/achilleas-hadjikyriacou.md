@@ -3,7 +3,7 @@ title: Dr Achilleas Hadjikyriacou
 job-title:
 institution: Royal Holloway, University of London
 order: 14
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/a.h.-web-photo-1-.jpg
+image: https://content.fitz.ms/fitz-website/assets/A.H. Web photo (1).jpg?key=exhibition
 layout: news
 caption: Dr Achilleas Hadjikyriacou (Royal Holloway, University of London)
 ---

@@ -3,7 +3,7 @@ title: Dr Giorgos Artopoulos
 job-title: Assistant Professor
 order: 12
 institution: The Cyprus Institute, Nicosia
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/ga-portrait-photo-1-.jpg
+image: https://content.fitz.ms/fitz-website/assets/GAportraitphoto.jpg?key=exhibition
 caption: Prof Giorgos Artopoulos, The Cyprus Institute, Nicosia
 layout: news
 ---

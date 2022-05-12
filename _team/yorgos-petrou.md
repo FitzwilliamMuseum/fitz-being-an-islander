@@ -2,7 +2,7 @@
 title: Yorgos Petrou
 job-title: Contemporary Artist
 order: 13
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/yorgos-petrou.jpg
+image: https://content.fitz.ms/fitz-website/assets/yorgos petrou.jpg?key=exhibition
 caption:
 layout: news
 ---

@@ -2,7 +2,7 @@
 layout: news
 title: Documentary
 order: 1
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/dbp_9287-9_tm_1500.jpg
+image: https://content.fitz.ms/fitz-website/assets/dbp_9287-9_tm_1500.jpg?key=exhibition
 images:
     -
         file: https://github.com/FitzwilliamMuseum/fitz-being-an-islander/raw/main/_resources/Documentary_BeingAnIslander6.jpg

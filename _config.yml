@@ -61,6 +61,9 @@ collections:
    team:
       output: true
       permalink: /:collection/:path
+   alumni:
+      output: true
+      permalink: /team/:collection/:path
    blog:
       output: true
 

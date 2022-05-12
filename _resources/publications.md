@@ -2,7 +2,7 @@
 layout: gold
 title: Bibliography
 order: 1
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/school_replicas1.jpg
+image: https://content.fitz.ms/fitz-website/assets/school_replicas1.jpg?key=exhibition
 ---
 
 -Adams, E. 2017. Cultural identity in Minoan Crete, Social Dynamics in the Neopalatial period, Cambridge.

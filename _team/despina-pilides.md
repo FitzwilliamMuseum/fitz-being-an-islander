@@ -3,7 +3,7 @@ order: 8
 title: Dr Despina Pilides
 institution: Department of Antiquities, Nicosia, Cyprus
 job-title: Former Curator of Antiquities, Cyprus
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/_dsc1870_pilides_resized.jpg
+image: https://content.fitz.ms/fitz-website/assets/_dsc1870_pilides_resized.jpg?key=exhibition
 caption:
 layout: news
 ---
