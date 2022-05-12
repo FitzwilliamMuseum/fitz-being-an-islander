@@ -1,16 +1,14 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
-<head>
-
-  <!-- Required meta tags -->
-  <meta charset="utf-8">
-  <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
-  {% seo %}
-  {% include /structure/prefetch.html %}
-  {% include /structure/ascii.html %}
-  {% include structure/css.html %}
-  {% include structure/analytics.html %}
-</head>
+  <head>
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
+    {% seo %}
+    {% include /structure/prefetch.html %}
+    {% include /structure/ascii.html %}
+    {% include structure/css.html %}
+    {% include structure/analytics.html %}
+  </head>
 <body class="doc-body">
 
   {% include /structure/gtag.html %}
@@ -22,15 +20,16 @@
     <div class="container-fluid bg-pastel pt-3 pb-3">
       {% include structure/figure.html %}
     </div>
+    
     <div class="container-fluid bg-white ">
       {% if page.cards == blank %}
       <div class="container">
-      <div class="col-12 shadow-sm p-3 mx-auto mb-3 ">
-        {{ content }}
-      </div>
+        <div class="col-12 shadow-sm p-3 mx-auto mb-3 ">
+          {{ content }}
+        </div>
       </div>
       {% else %}
-      {{ content }}
+        {{ content }}
       {% endif %}
 
     </div>
@@ -42,4 +41,4 @@
     {% include structure/footer.html %}
     {% include structure/javascript.html %}
   </body>
-  </html>
+</html>

@@ -1,28 +1,26 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
-<head>
-
-  <!-- Required meta tags -->
-  <meta charset="utf-8">
-  <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
-  {% seo %}
-  {% include /structure/prefetch.html %}
-  {% include /structure/ascii.html %}
-  {% include structure/css.html %}
-  {% include structure/analytics.html %}
-<style>
-.head {
-  background-image: url('https://fitz-cms-images.s3.eu-west-2.amazonaws.com/eggnj5su4aqsk18-copy-1-.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 50% 90%;
-}
-.parallax {
-  min-height: 75vh!important;
-}
-</style>
-</head>
-<body class="doc-body">
+  <head>
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
+    {% seo %}
+    {% include /structure/prefetch.html %}
+    {% include /structure/ascii.html %}
+    {% include structure/css.html %}
+    {% include structure/analytics.html %}
+    <style>
+    .head {
+      background-image: url('https://fitz-cms-images.s3.eu-west-2.amazonaws.com/eggnj5su4aqsk18-copy-1-.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: 50% 90%;
+    }
+    .parallax {
+      min-height: 75vh!important;
+    }
+    </style>
+  </head>
+  <body class="doc-body">
   {% include /structure/gtag.html %}
   {% include /structure/accessibility.html %}  <!-- Screen reader skip to main -->
 
@@ -33,7 +31,6 @@
         <h1 class="shout lead" id="doc-main-h1">{{page.title}}</h1>
       </div>
     </div>
-
   <div class="container-fluid bg-pastel p-3 ">
     {% if page.cards == blank %}
     <div class="container">
@@ -46,7 +43,6 @@
     {% endif %}
   </div>
   {% include structure/footer_logos.html %}
-
   {% include structure/footer.html %}
   {% include structure/javascript.html %}
   {% include structure/map.html %}
