@@ -4,7 +4,7 @@ title: "‘Being an Islander’: Art and Identity of the Large Mediterranean Isl
 author: Anastasia Christophilopoulou
 date: 2019-09-05
 updated: 2019-02-12
-image: https://content.fitz.ms/fitz-website/assets/GR_2_1891_1_201603_mfj22_dc1.jpg?key=exhibition
+image: https://content.fitz.ms/fitz-website/assets/GR_2_1891_1_201603_mfj22_dc1.jpeg?key=exhibition
 caption: "Torso of Dionysos from the Roman Gymnasium of Salamis, East Cyprus (Middle Roman 100 – 200 CE). Copyright Fitzwilliam Museum 2020."
 ---
 The Fitzwilliam Museum announces an exciting new dimension to the research and exhibition project ***‘Being an Islander’: Art and Identity of the Large Mediterranean Islands***, a four-year project aiming to elucidate what defines island identity in the Mediterranean. Research (2019-2023) is conducted by a team of curators, researchers, conservators, learning, engagement and digital specialists, enhanced by contemporary artists and invited specialists from a variety of European and American research institutions, universities and museums.

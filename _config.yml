@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://islander.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
+github_repo: https://github.com/FitzwilliamMuseum/fitz-being-an-islander
 google_analytics: 'G-2R0YLY9DRS'
 main_url: 'https://fitzmuseum.cam.ac.uk'
 
