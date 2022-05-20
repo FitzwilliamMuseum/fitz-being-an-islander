@@ -2,7 +2,7 @@
 title: Dr Giulia Muti
 job-title: Associate researcher
 order: 14
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/giulia-at-the-pella-museum.jpg
+image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/giulia-at-the-pella-museum.jpg?key=exhibition
 caption:
 layout: news
 ---
