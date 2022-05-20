@@ -2,7 +2,7 @@
 title: Dr Jana Mokrišova
 image: https://content.fitz.ms/fitz-website/assets/Jana Mokrisova.jpg?key=exhibition
 institution: Department of Classics
-job-title: Former Co-Investigator
+job-title: Former Research associate
 layout: news
 orcid:
 order: 1
