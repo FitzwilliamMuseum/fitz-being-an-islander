@@ -2,7 +2,7 @@
 layout: funders
 title: Our team
 order: 2
-image: https://content.fitz.ms/fitz-website/assets/pxl_20211121_095309613.jpg?key=exhibition
+image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/anastasia_bai-copy.jpg
 caption: "Principal Investigator: Anastasia Christophilopoulou"
 cards: true
 ---

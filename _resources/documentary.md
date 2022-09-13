@@ -5,7 +5,7 @@ order: 1
 image: https://content.fitz.ms/fitz-website/assets/dbp_9287-9_tm_1500.jpg?key=exhibition
 images:
     -
-        file: https://github.com/FitzwilliamMuseum/fitz-being-an-islander/raw/main/_resources/Documentary_BeingAnIslander6.jpg
+        file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/dbp_3457b_small.jpg
         caption:  The Being an Islander Documentary was produced in Cambridge and in Siphnos, Greece, between October- December 2021.
 
     -   file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/filming_neal1.jpg
