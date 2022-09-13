@@ -2,7 +2,7 @@
 layout: news
 title: Documentary
 order: 1
-image: https://content.fitz.ms/fitz-website/assets/dbp_9287-9_tm_1500.jpg?key=exhibition
+image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/dbp_9287-9_tm_1500_small.jpg
 images:
     -
         file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/dbp_3457b_small.jpg
@@ -29,7 +29,7 @@ images:
     -   file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/pxl_20211118_091149401.jpg
         caption: The site of Agios Andreas, Siphnos, an important Late Bronze Age and Early Iron Age settlement on the island. Anastasia and Prof Nicholas Anastasopoulos (Department of Architecture, University of Athens) discussed the evolution of the site diachronically.
 
-    -   file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/pxl_20211124_122257753.jpg
+    -   file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/team_cropped.jpg
         caption: The entire filming crew, during the last day of filming, at the highest point in the island, monastery of Agios Symeon.
 ---
 
