@@ -26,7 +26,7 @@ images:
     caption: "The Bronze Age site of Su Nuraxi di Barumini, in Marmilla, south-central Sardinia (Province of Medio Campidano), is one of the central sites featured as part of the Being an Islander project. Photo @ Christophilopoulou 2019."
 ---
 
-**‘Being an Islander: Art and Identity of the Large Mediterranean Islands'** runs as a research project between 2019 and 2023, with a major exhibition opening on 21 February 2023 and closing on 4 June 2023.
+**‘Being an Islander: Art and Identity of the Large Mediterranean Islands'** runs as a research project between 2019 and 2023, with a major exhibition titled 'Islanders: The Making of the Mediterranean' opening on 24 February 2023 and closing on 4 June 2023.
 
 Both the exhibition and research components of 'Being an Islander' project, together with corresponding public engagement actions and outputs, aim to elucidate what defines island identities in the Mediterranean. They explore how insularity affected and shaped cultural identity using the examples of Crete, Cyprus and Sardinia, and provide a platform to debate cultural evolution on the islands as opposed to the surrounding mainland. The exhibition will extend beyond the topic of the ancient Mediterranean, incorporating the current perceptions of and discourses about island versus mainland cultural identities (e.g., including Britain’s own, debated island identity).
 
