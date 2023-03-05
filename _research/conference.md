@@ -7,15 +7,15 @@ order: 5
 images:
   -
     file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/fig_1christophilopoulou_burn-1-.jpg
-    caption: "View of the entrance hall of the Ashmolean Museum. The Antiquities Department of the Ashmolean Museum is a partner of the a joint conference, planned for Spring 2023. Copyright Ashmolean Museum 2020."
+    caption: "View of the entrance hall of the Ashmolean Museum. The Antiquities Department of the Ashmolean Museum is a partner of the a joint conference, happening March 28-30, 2023. Copyright Ashmolean Museum 2020."
   -
-    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/10-11-carlton-house-terrace.jpg
-    caption: "The second day of the conference (29 March 2023) will be hosted at the British Academy, London"
+    file: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/chc-picture.jpg
+    caption: "The second day of the conference (29 March 2023) will be hosted at the Cyprus House, St James' Square, London, SW1Y 4LB."
 ---
 
-The Fitzwilliam Museum and the Ashmolean Museum are pleased to announce an interdisciplinary conference to be held March 28–30, 2023 in Cambridge, London and Oxford. The first day (28 March 2023) will take place in Cambridge, the second at the British Academy in London (29 March 2023) and the third in Oxford (30 March 2023).
+The Fitzwilliam Museum and the Ashmolean Museum are pleased to announce an interdisciplinary conference to be held March 28–30, 2023 in Cambridge, London and Oxford. The first day (28 March 2023) will take place at the Old Divinity School,  St John’s  College, Cambridge,  the second (29 March 2023) at the Cyprus House, St James' Square, London and the third (30 March 2023) at the Ashmolean Museum, Oxford.
 
-The conference will accompany the two major exhibitions planned to open in February 2023 in Cambridge (as part of the Being an Islander project) in Oxford (Labyrinth: Knossos, myth and reality) on the theme of the Mediterranean islands, exploring research questions which are complementary between the two exhibitions.
+The conference will accompany the two major exhibitions opening February 2023 in Cambridge Islanders: The Making of the Mediterranean (as part of the Being an Islander project) and Labyrinth: Knossos, Myth & Reality, in Oxford on the theme of the Mediterranean islands, exploring research questions which are complementary between the two projects.
 
 The conference will include keynote lectures from leading researchers in the fields of Mediterranean archaeology, island archaeology, and the archaeology of Crete and Knossos, as well as neighbouring scientific fields (archaeobotany, archaeometallurgy and ceramic studies) in dialogue with the broader disciplines mentioned above.
 
@@ -23,5 +23,114 @@ Throughout history, islands have been treated as distinct places, unlike mainlan
 
 ‘Being an Islander: Art and Identity of the Large Mediterranean Islands’ research project addresses the above questions under a broad diachronic scope and applies integrative analytical approach to our exhibits. The associated exhibition will also engage works of contemporary artists whose creations contemplate what belonging to an island means. Papers presented in this joint conference by the Being an Islander research consortium (Fitzwilliam Museum, McDonald Institute for Archaeological Research, The Cyprus Institute, Department of Antiquities, Cyprus, Greek Ministry of Culture, National Archaeological Museum of Cagliari) will present the project’s findings on topics of insularity, mobility and migration in the Mediterranean diachronically.
 
-The second theme of our conference, centred on the Ashmolean’s Labyrinth exhibition, will focus on the archaeological site of Knossos. For many, Knossos was the Labyrinth, the mythical home of the Minotaur, while others know it as the centre of the Bronze Age Minoan civilisation and the home of the earliest farmers in Europe. Using objects excavated over the course of over nearly 150 years, archival documents and digital technology, the Ashmolean will reveal the history of this world-famous archaeological site. Collaborating with the Greek Ministry of Culture, the British School at Athens and Oxford’s School of Archaeology, this will be UK’s first major exhibition focussing on Knossos, including many significant loans from Greece. Papers presented in the joint conference will bring together speakers from these partner organisations and the excavators responsible for new discoveries in and around Knossos. The conference’s preliminary programme, will be published here and on the Ashmolean Museum’s website soon.
+The second theme of our conference, centred on the Ashmolean’s Labyrinth exhibition, will focus on the archaeological site of Knossos. For many, Knossos was the Labyrinth, the mythical home of the Minotaur, while others know it as the centre of the Bronze Age Minoan civilisation and the home of the earliest farmers in Europe. Using objects excavated over the course of over nearly 150 years, archival documents and digital technology, the Ashmolean will reveal the history of this world-famous archaeological site. Collaborating with the Greek Ministry of Culture, the British School at Athens and Oxford’s School of Archaeology, this will be UK’s first major exhibition focussing on Knossos, including many significant loans from Greece. Papers presented in the joint conference will bring together speakers from these partner organisations and the excavators responsible for new discoveries in and around Knossos.
+
+## Provisional programme
+
+### 28 March 2023 Cambridge Day
+
+9:30 – 9:45 am Anastasia Christophilopoulou, Introduction
+
+9:45-10:15 am Keynote speaker Katerina Kopaka
+
+10:15 -10:35 am Simon Stoddard & Caroline Malone: The Malta project
+
+Tea break 10:35- 11:00 am
+
+Islands beyond the ancient world horizon
+
+11:00 am – 11:20 pm: Dr Polyxeni Adam-Veleni & Asterios Peltekis (Καλλιτεχνικός Διευθυντής του Κρατικού Θεάτρου Βορείου Ελλάδος) "Insularity and being an islander in ancient Greek theatrical literature”.
+
+11:20 pm – 11:40 pm Dr. Laura Dierksmeier (Early Modern History, Universität Tübingen, Germany), ‘The Island Studies Academic Network (Sponsored by the German Research Foundation)’
+
+11:40pm – 12:00 pm Discussion on morning papers
+
+Lunch break 12:00 – 13:00 pm
+
+
+Being an Islander research network presentations
+
+13:00- 13:20 pm Prof James Whitley, Cardiff University, ‘Being Cretan, Being Knossian: Nested Island Identities Compared Through Time.
+
+13:20 pm – 13:40 pm Dr Evi Margaritis (Associate Professor, The Cyprus Institute), 'Parallel or similar lives? Agricultural choices in Bronze Age Crete and Cyprus'.
+
+13:40- 14:00 pm Anastasia Christophilopoulou: West area of Samos Archaeological survey
+
+14:0- 14:20 pm, Jan Mark Henke (Director of the Heraion Samos, excavations) 'The trans-Mediterranean relations of Samos in the 7th and early 6th century BC and their impact on the Samian community and the cult in the Heraion'.
+
+14:20 – 14:40 pm, Dr Giorgos Artopoulos (Associate Professor, The Cyprus Institute) & Nicolas Loucas (Research Assistant, The Cyprus Institute) "Field-to-Museum VR: use of immersive visualisation for archaeological data interpretation".
+
+14:40 -15:10 Dr Helen Dawson Closing remarks.
+
+Coffee break 15:10 – 15:30 pm
+
+Being an Islander Documentary projection, 15:30 -16:30 pm
+
+18:00 pm Dinner for speakers and key partners at the Olive Grove restaurant, Cambridge
+
+### 29 March 2023 Cyprus High Commission (11:30 am – 20:00 pm)
+
+11.30 High Commissioner’s welcome
+
+11:40-12:00 Andrew Shapland & Anastasia Christophilopoulou, introductions to the 2 exhibitions.
+
+12.00-13.00 Cyprian Broodbank (Disney Professor of Archaeology, University of Cambridge). 'Mediterranean islands in global perspective”.
+
+13.00 Lunch
+
+14:00 pm Islands:
+
+14:00-14:30. Polyxeni Adam Veleni (Director General of Antiquities, Greece)."Are the Euboeans islanders? Colonization in Northern Greece, an overview".
+
+14:30-15:00. TBC.
+
+15:00-15:30 Francesco Muscolino (Director of the National Archaeological Museum Cagliari, Sardinia). “Insularity and Mediterranean networks in the collections of the National Archaeological Museum of Cagliari from prehistory to the contemporary age”.
+
+Coffee break
+
+16:00 Knossos
+
+16:00-16:30 Stella Mandalaki (Heraklion Archaeological Museum)
+
+16:30-17:00 Vasiliki Sythiakaki, Elisavet Kavoulaki, Maria Kladou, “Conservation, restoration and site management of the Palace of Knossos”.
+
+17:00-17:30 Rebecca Sweetman (British School at Athens), “Early excavations at Knossos: women and an alternative perspective”.
+
+
+17:30 pm reception and buffet dinner
+
+20:00 pm close
+
+
+### 30 March Oxford Day
+
+New Research at Knossos
+Venue: Headley Lecture Theatre, Ashmolean Museum
+
+9am visit to exhibition
+
+
+10am registration
+
+10.10 Andrew Shapland introduction.
+
+Morning session: chair Stella Mandalaki
+
+10.20 Despina Ignatiadou, “Human versus hybrid. Theseus and the Minotaur in sculpture”.
+
+10.45 Eirini Galli and Kleanthis Sidiropoulos, “The epigram of Knossian Tharsymachos. A walk down memory lane”.
+
+11.10 Senta German, “Arthur Evans, Piet de Jong and Building of Modern Knossos”.
+
+11.35 break
+
+12.00 Katerina Kopaka, “‘A guide to the ancient city of Knossos – the Palace of King Minos I – the Knossos Labyrinth’. A new manuscript of
+Minos Kalokairinos in the Historical Museum of Crete”
+
+12.25 Georgia Flouda, pa-i-to project (title tbc)
+
+12.50 Katerina Athanasaki, replicas (title tbc)
+
+13.15 Lunch
+
 
