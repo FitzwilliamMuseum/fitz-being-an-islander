@@ -2,7 +2,7 @@
 layout: funders
 title: Our project alumni
 order: 4
-image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/team_cropped.jpg
+image: "https://content.fitz.ms/fitz-website/assets/team_cropped.jpg?key=exhibition"
 caption: Team in Sifnos
 cards: true
 ---
