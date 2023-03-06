@@ -1,6 +1,6 @@
 ---
 title: Dr Abigail Baker
-job-title: project Curator
+job-title: Project Curator
 institution: Fitzwilliam Museum
 order: 20
 image: https://fitz-cms-images.s3.eu-west-2.amazonaws.com/abigail.jpg
