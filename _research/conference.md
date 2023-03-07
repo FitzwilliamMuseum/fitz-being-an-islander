@@ -31,9 +31,9 @@ The second theme of our conference, centred on the Ashmolean’s Labyrinth exhib
 
 9:30 – 9:45 am Anastasia Christophilopoulou, Introduction
 
-9:45-10:15 am Keynote speaker Katerina Kopaka
+9:45-10:15 am Keynote speaker Katerina Kopaka (Professor Emerita, University of Crete) ‘Little islands, big cultural issues. The Gavdos interdisciplinary experience.’
 
-10:15 -10:35 am Simon Stoddard & Caroline Malone: The Malta project
+10:15 -10:35 am Eoin Parkinson, Simon Stoddart & Caroline Malone: Malta: the current evidence for identity and interaction. (Delivered by Eoin Parkinson).
 
 Tea break 10:35- 11:00 am
 
@@ -124,13 +124,36 @@ Morning session: chair Stella Mandalaki
 
 11.35 break
 
-12.00 Katerina Kopaka, “‘A guide to the ancient city of Knossos – the Palace of King Minos I – the Knossos Labyrinth’. A new manuscript of
-Minos Kalokairinos in the Historical Museum of Crete”
+12.00 Katerina Kopaka (Emerita Professor of Prehistoric Archaeology, Department of History and Archaeology, University of Crete), “‘A guide to the ancient city of Knossos – the Palace of King Minos I – the Knossos Labyrinth’. A new manuscript of Minos Kalokairinos in the Historical Museum of Crete”
 
-12.25 Georgia Flouda, pa-i-to project (title tbc)
+12.25 Georgia Flouda (Head of Department of Prehistoric and Minoan Antiquities, Heraklion Archaeological Museum), Alessandro Greco (Professor, University of Sapienza) and Erika Notti ( Assistant Professor, Università Milan) “Exploring the materiality and epigraphy of Knossian Linear B tablets through 3D modelling and RTI: research objectives and results of the Pa-i-to Project”.
 
-12.50 Katerina Athanasaki, replicas (title tbc)
+12.50 Katerina Athanasaki (Head of the Department of Exhibitions, Communication and Education, Heraklion Archaeological Museum), "Reproducing the Minoans: Travelling plaster copies, made in Crete (1900-1935)".
 
 13.15 Lunch
+
+Afternoon session: chair Vassiliki Sythiakaki
+
+14.30 Peter Tomkins (Postdoctoral Researcher, Department of Humanities, University of Catania), “Neolithic Knossos: from legacy excavations to histories of people and place”
+
+14.55 Amy Bogaard (Professor of Neolithic and Bronze Age Archaeology, School of Archaeology, University of Oxford) and Valasia Isaakidou (Postdoctoral Researcher, School of Archaeology, University of Oxford), “Farming and food at Knossos: the long-term story”
+
+15.20 John Pouncett, Knossos 3D model (title tbc)
+
+15.45 Todd Whitelaw (Professor of Aegean Archaeology, UCL Institute of Archaeology), Maria Bredaki and Andonis Vasilakis (both Emeritus Ephors, Ephorate of Antiquities of Heraklion), “The Knossos Urban landscape Project: documenting the long-term development of the city”.
+
+16.10 break
+
+16.40 Colin Macdonald (British School at Athens), “Excavating Evans and Hogarth: the contribution of the SW Houses excavations (1992-1993, 1995) to Knossian prehistory”.
+
+17.05 Maria Roussaki (Archaeologist, Ephorate of Antiquities of Heraklion), “A new Minoan Fresco from Knossos: ‘The Swallows Fresco’”.
+
+17.30 Vassiliki Sythiakaki (Director, Ephorate of Antiquities of Heraklion), “Early Byzantine Knossos. Attempting a re-examination”.
+
+
+18.00 Reception
+
+19.00 Dinner for speakers (Ashmolean restaurant)
+
 
 
