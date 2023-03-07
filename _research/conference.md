@@ -15,6 +15,10 @@ images:
 
 The Fitzwilliam Museum and the Ashmolean Museum are pleased to announce an interdisciplinary conference to be held March 28–30, 2023 in Cambridge, London and Oxford. The first day (28 March 2023) will take place at the Old Divinity School,  St John’s  College, Cambridge,  the second (29 March 2023) at the Cyprus House, St James' Square, London and the third (30 March 2023) at the Ashmolean Museum, Oxford.
 
+Booking link to the  Cambridge day:  <https://www.eventbrite.co.uk/e/island-identities-tickets-574095463987>.
+
+Booking link to the Oxford day: <https://www.eventbrite.com/e/new-research-at-knossos-tickets-569907427457>.
+
 The conference will accompany the two major exhibitions opening February 2023 in Cambridge Islanders: The Making of the Mediterranean (as part of the Being an Islander project) and Labyrinth: Knossos, Myth & Reality, in Oxford on the theme of the Mediterranean islands, exploring research questions which are complementary between the two projects.
 
 The conference will include keynote lectures from leading researchers in the fields of Mediterranean archaeology, island archaeology, and the archaeology of Crete and Knossos, as well as neighbouring scientific fields (archaeobotany, archaeometallurgy and ceramic studies) in dialogue with the broader disciplines mentioned above.
