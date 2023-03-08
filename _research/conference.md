@@ -54,17 +54,17 @@ Lunch break 12:00 – 13:00 pm
 
 Being an Islander research network presentations
 
-13:00- 13:20 pm Prof James Whitley, Cardiff University, ‘Being Cretan, Being Knossian: Nested Island Identities Compared Through Time.
+13:00- 13:20 pm Prof James Whitley, (Cardiff University), ‘Being Cretan, Being Knossian: Nested Island Identities Compared Through Time.
 
 13:20 pm – 13:40 pm Dr Evi Margaritis (Associate Professor, The Cyprus Institute), 'Parallel or similar lives? Agricultural choices in Bronze Age Crete and Cyprus'.
 
 13:40- 14:00 pm Anastasia Christophilopoulou: West area of Samos Archaeological survey
 
-14:0- 14:20 pm, Jan Mark Henke (Director of the Heraion Samos, excavations) 'The trans-Mediterranean relations of Samos in the 7th and early 6th century BC and their impact on the Samian community and the cult in the Heraion'.
+14:0- 14:20 pm, Jan-Marc Henke (Director of the Heraion Samos, excavations) 'The trans-Mediterranean relations of Samos in the 7th and early 6th century BC and their impact on the Samian community and the cult in the Heraion'.
 
 14:20 – 14:40 pm, Dr Giorgos Artopoulos (Associate Professor, The Cyprus Institute) & Nicolas Loucas (Research Assistant, The Cyprus Institute) "Field-to-Museum VR: use of immersive visualisation for archaeological data interpretation".
 
-14:40 -15:10 Dr Helen Dawson Closing remarks.
+14:40 -15:10 Dr Helen Dawson (Università di Bologna / Freie Universität Berlin) Closing remarks.
 
 Coffee break 15:10 – 15:30 pm
 
@@ -94,11 +94,11 @@ Coffee break
 
 16:00 Knossos
 
-16:00-16:30 Stella Mandalaki (Heraklion Archaeological Museum)
+16:00-16:30 Stella Mandalaki, (Director, Heraklion Archaeological Museum) “"The Minoan Legacy of the Heraklion Archaeological Museum”
 
 16:30-17:00 Vasiliki Sythiakaki, Elisavet Kavoulaki, Maria Kladou, “Conservation, restoration and site management of the Palace of Knossos”.
 
-17:00-17:30 Rebecca Sweetman (British School at Athens), “Early excavations at Knossos: women and an alternative perspective”.
+17:00-17:30 Rebecca Sweetman (Director,British School at Athens), “Early excavations at Knossos: women and an alternative perspective”.
 
 
 17:30 pm reception and buffet dinner
@@ -111,7 +111,6 @@ Coffee break
 New Research at Knossos
 Venue: Headley Lecture Theatre, Ashmolean Museum
 
-9am visit to exhibition
 
 
 10am registration
@@ -157,7 +156,6 @@ Afternoon session: chair Vassiliki Sythiakaki
 
 18.00 Reception
 
-19.00 Dinner for speakers (Ashmolean restaurant)
 
 
 
