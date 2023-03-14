@@ -15,9 +15,9 @@ images:
 
 The Fitzwilliam Museum and the Ashmolean Museum are pleased to announce an interdisciplinary conference to be held March 28–30, 2023 in Cambridge, London and Oxford. The first day (28 March 2023) will take place at the Old Divinity School,  St John’s  College, Cambridge,  the second (29 March 2023) at the Cyprus House, St James' Square, London and the third (30 March 2023) at the Ashmolean Museum, Oxford.
 
-Booking link to the  Cambridge day:  <https://www.eventbrite.co.uk/e/island-identities-tickets-574095463987>.
+<a href="https://www.eventbrite.co.uk/e/island-identities-tickets-574095463987" class="d-block btn btn-dark">Booking link for the Cambridge day</a>
 
-Booking link to the Oxford day: <https://www.eventbrite.com/e/new-research-at-knossos-tickets-569907427457>.
+<a href="https://www.eventbrite.com/e/new-research-at-knossos-tickets-569907427457" class="d-block btn btn-info">Booking link for the Oxford day</a>
 
 The conference will accompany the two major exhibitions opening February 2023 in Cambridge Islanders: The Making of the Mediterranean (as part of the Being an Islander project) and Labyrinth: Knossos, Myth & Reality, in Oxford on the theme of the Mediterranean islands, exploring research questions which are complementary between the two projects.
 
@@ -30,8 +30,10 @@ Throughout history, islands have been treated as distinct places, unlike mainlan
 The second theme of our conference, centred on the Ashmolean’s Labyrinth exhibition, will focus on the archaeological site of Knossos. For many, Knossos was the Labyrinth, the mythical home of the Minotaur, while others know it as the centre of the Bronze Age Minoan civilisation and the home of the earliest farmers in Europe. Using objects excavated over the course of over nearly 150 years, archival documents and digital technology, the Ashmolean will reveal the history of this world-famous archaeological site. Collaborating with the Greek Ministry of Culture, the British School at Athens and Oxford’s School of Archaeology, this will be UK’s first major exhibition focussing on Knossos, including many significant loans from Greece. Papers presented in the joint conference will bring together speakers from these partner organisations and the excavators responsible for new discoveries in and around Knossos.
 
 ## Provisional programme
+{: .text-center }
 
 ### 28 March 2023 Cambridge Day
+{: .display-6  .text-center .text-info}
 
 9:30 – 9:45 am Anastasia Christophilopoulou, Introduction
 
@@ -39,9 +41,15 @@ The second theme of our conference, centred on the Ashmolean’s Labyrinth exhib
 
 10:15 -10:35 am Eoin Parkinson, Simon Stoddart & Caroline Malone: Malta: the current evidence for identity and interaction. (Delivered by Eoin Parkinson).
 
-Tea break 10:35- 11:00 am
+----
 
-Islands beyond the ancient world horizon
+Tea break 10:35- 11:00 am
+{: .text-center .fw-bold}
+
+---- 
+
+### Islands beyond the ancient world horizon 
+{: .lead .text-info}
 
 11:00 am – 11:20 pm: Dr Polyxeni Adam-Veleni & Asterios Peltekis (Καλλιτεχνικός Διευθυντής του Κρατικού Θεάτρου Βορείου Ελλάδος) "Insularity and being an islander in ancient Greek theatrical literature”.
 
@@ -49,10 +57,15 @@ Islands beyond the ancient world horizon
 
 11:40pm – 12:00 pm Discussion on morning papers
 
+---- 
+
 Lunch break 12:00 – 13:00 pm
+{: .text-center .fw-bold}
 
+----
 
-Being an Islander research network presentations
+### Being an Islander research network presentations
+{: .lead .text-info}
 
 13:00- 13:20 pm Prof James Whitley, (Cardiff University), ‘Being Cretan, Being Knossian: Nested Island Identities Compared Through Time.
 
@@ -66,13 +79,24 @@ Being an Islander research network presentations
 
 14:40 -15:10 Dr Helen Dawson (Università di Bologna / Freie Universität Berlin) Closing remarks.
 
+---- 
+
 Coffee break 15:10 – 15:30 pm
+{: .text-center .fw-bold}
+
+----
 
 Being an Islander Documentary projection, 15:30 -16:30 pm
 
-18:00 pm Dinner for speakers and key partners at the Olive Grove restaurant, Cambridge
+----
+
+**18:00 pm Dinner for speakers and key partners at the Olive Grove restaurant, Cambridge**
+{: .text-center .fw-bold}
+
+----
 
 ### 29 March 2023 Cyprus High Commission (11:30 am – 20:00 pm)
+{: .text-center .text-info .display-6 .text-info}
 
 11.30 High Commissioner’s welcome
 
@@ -80,9 +104,15 @@ Being an Islander Documentary projection, 15:30 -16:30 pm
 
 12.00-13.00 Cyprian Broodbank (Disney Professor of Archaeology, University of Cambridge). 'Mediterranean islands in global perspective”.
 
-13.00 Lunch
+----
 
-14:00 pm Islands:
+13.00 Lunch
+{: .text-center .fw-bold}
+
+----
+
+### Islands
+{: .lead .text-info}
 
 14:00-14:30. Polyxeni Adam Veleni (Director General of Antiquities, Greece)."Are the Euboeans islanders? Colonization in Northern Greece, an overview".
 
@@ -90,7 +120,12 @@ Being an Islander Documentary projection, 15:30 -16:30 pm
 
 15:00-15:30 Francesco Muscolino (Director of the National Archaeological Museum Cagliari, Sardinia). “Insularity and Mediterranean networks in the collections of the National Archaeological Museum of Cagliari from prehistory to the contemporary age”.
 
-Coffee break
+----
+
+Coffee break: 15:30-16:00
+{: .text-center .fw-bold}
+
+----
 
 16:00 Knossos
 
@@ -100,24 +135,26 @@ Coffee break
 
 17:00-17:30 Rebecca Sweetman (Director,British School at Athens), “Early excavations at Knossos: women and an alternative perspective”.
 
+----
 
 17:30 pm reception and buffet dinner
 
 20:00 pm close
 
+----
 
 ### 30 March Oxford Day
+{: .text-center .text-info .display-6}
 
 New Research at Knossos
 Venue: Headley Lecture Theatre, Ashmolean Museum
-
-
 
 10am registration
 
 10.10 Andrew Shapland introduction.
 
-Morning session: chair Stella Mandalaki
+### Morning session: chair Stella Mandalaki
+{: .lead }
 
 10.20 Despina Ignatiadou, “Human versus hybrid. Theseus and the Minotaur in sculpture”.
 
@@ -125,7 +162,12 @@ Morning session: chair Stella Mandalaki
 
 11.10 Senta German, “Arthur Evans, Piet de Jong and Building of Modern Knossos”.
 
+----
+
 11.35 break
+{: .text-center .fw-bold}
+
+----
 
 12.00 Katerina Kopaka (Emerita Professor of Prehistoric Archaeology, Department of History and Archaeology, University of Crete), “‘A guide to the ancient city of Knossos – the Palace of King Minos I – the Knossos Labyrinth’. A new manuscript of Minos Kalokairinos in the Historical Museum of Crete”
 
@@ -133,9 +175,15 @@ Morning session: chair Stella Mandalaki
 
 12.50 Katerina Athanasaki (Head of the Department of Exhibitions, Communication and Education, Heraklion Archaeological Museum), "Reproducing the Minoans: Travelling plaster copies, made in Crete (1900-1935)".
 
-13.15 Lunch
+-----
 
-Afternoon session: chair Vassiliki Sythiakaki
+13.15 Lunch
+{: .text-center .fw-bold}
+
+-----
+
+### Afternoon session: chair Vassiliki Sythiakaki
+{: .lead }
 
 14.30 Peter Tomkins (Postdoctoral Researcher, Department of Humanities, University of Catania), “Neolithic Knossos: from legacy excavations to histories of people and place”
 
@@ -145,7 +193,12 @@ Afternoon session: chair Vassiliki Sythiakaki
 
 15.45 Todd Whitelaw (Professor of Aegean Archaeology, UCL Institute of Archaeology), Maria Bredaki and Andonis Vasilakis (both Emeritus Ephors, Ephorate of Antiquities of Heraklion), “The Knossos Urban landscape Project: documenting the long-term development of the city”.
 
+-----
+
 16.10 break
+{: .text-center .fw-bold}
+
+-----
 
 16.40 Colin Macdonald (British School at Athens), “Excavating Evans and Hogarth: the contribution of the SW Houses excavations (1992-1993, 1995) to Knossian prehistory”.
 
@@ -153,9 +206,11 @@ Afternoon session: chair Vassiliki Sythiakaki
 
 17.30 Vassiliki Sythiakaki (Director, Ephorate of Antiquities of Heraklion), “Early Byzantine Knossos. Attempting a re-examination”.
 
+----
 
 18.00 Reception
+{: .text-center }
 
-
+----
 
 
