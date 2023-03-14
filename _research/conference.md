@@ -35,11 +35,11 @@ The second theme of our conference, centred on the Ashmolean’s Labyrinth exhib
 ### 28 March 2023 Cambridge Day
 {: .display-6  .text-center .text-info}
 
-9:30 – 9:45 am Anastasia Christophilopoulou, Introduction
+9:30 – 9:45am Anastasia Christophilopoulou, _Introduction_
 
-9:45-10:15 am Keynote speaker Katerina Kopaka (Professor Emerita, University of Crete) ‘Little islands, big cultural issues. The Gavdos interdisciplinary experience.’
+9:45 - 10:15am: Keynote speaker Katerina Kopaka (Professor Emerita, University of Crete) _‘Little islands, big cultural issues. The Gavdos interdisciplinary experience'_
 
-10:15 -10:35 am Eoin Parkinson, Simon Stoddart & Caroline Malone: Malta: the current evidence for identity and interaction. (Delivered by Eoin Parkinson).
+10:15 - 10:35am: Eoin Parkinson, Simon Stoddart & Caroline Malone _Malta: the current evidence for identity and interaction._ (Delivered by Eoin Parkinson).
 
 ----
 
@@ -51,11 +51,11 @@ Tea break 10:35- 11:00 am
 ### Islands beyond the ancient world horizon 
 {: .lead .text-info}
 
-11:00 am – 11:20 pm: Dr Polyxeni Adam-Veleni & Asterios Peltekis (Καλλιτεχνικός Διευθυντής του Κρατικού Θεάτρου Βορείου Ελλάδος) "Insularity and being an islander in ancient Greek theatrical literature”.
+11:00 am – 11:20am: Dr Polyxeni Adam-Veleni & Asterios Peltekis (Καλλιτεχνικός Διευθυντής του Κρατικού Θεάτρου Βορείου Ελλάδος) _"Insularity and being an islander in ancient Greek theatrical literature”_
 
-11:20 pm – 11:40 pm Dr. Laura Dierksmeier (Early Modern History, Universität Tübingen, Germany), ‘The Island Studies Academic Network (Sponsored by the German Research Foundation)’
+11:20 am – 11:40am: Dr. Laura Dierksmeier (Early Modern History, Universität Tübingen, Germany), _‘The Island Studies Academic Network (Sponsored by the German Research Foundation)’_
 
-11:40pm – 12:00 pm Discussion on morning papers
+11:40 am – 12:00pm: _Discussion on morning papers_
 
 ---- 
 
@@ -67,30 +67,30 @@ Lunch break 12:00 – 13:00 pm
 ### Being an Islander research network presentations
 {: .lead .text-info}
 
-13:00- 13:20 pm Prof James Whitley, (Cardiff University), ‘Being Cretan, Being Knossian: Nested Island Identities Compared Through Time.
+13:00- 13:20: Prof James Whitley, (Cardiff University), ‘Being Cretan, Being Knossian: Nested Island Identities Compared Through Time.
 
-13:20 pm – 13:40 pm Dr Evi Margaritis (Associate Professor, The Cyprus Institute), 'Parallel or similar lives? Agricultural choices in Bronze Age Crete and Cyprus'.
+13:20 – 13:40: Dr Evi Margaritis (Associate Professor, The Cyprus Institute), 'Parallel or similar lives? Agricultural choices in Bronze Age Crete and Cyprus'.
 
-13:40- 14:00 pm Anastasia Christophilopoulou: West area of Samos Archaeological survey
+13:40 - 14:00: Anastasia Christophilopoulou: West area of Samos Archaeological survey
 
-14:0- 14:20 pm, Jan-Marc Henke (Director of the Heraion Samos, excavations) 'The trans-Mediterranean relations of Samos in the 7th and early 6th century BC and their impact on the Samian community and the cult in the Heraion'.
+14:0) - 14:20: Jan-Marc Henke (Director of the Heraion Samos, excavations) 'The trans-Mediterranean relations of Samos in the 7th and early 6th century BC and their impact on the Samian community and the cult in the Heraion'.
 
-14:20 – 14:40 pm, Dr Giorgos Artopoulos (Associate Professor, The Cyprus Institute) & Nicolas Loucas (Research Assistant, The Cyprus Institute) "Field-to-Museum VR: use of immersive visualisation for archaeological data interpretation".
+14:20 – 14:40: Dr Giorgos Artopoulos (Associate Professor, The Cyprus Institute) & Nicolas Loucas (Research Assistant, The Cyprus Institute) "Field-to-Museum VR: use of immersive visualisation for archaeological data interpretation".
 
-14:40 -15:10 Dr Helen Dawson (Università di Bologna / Freie Universität Berlin) Closing remarks.
+14:40 - 15:10: Dr Helen Dawson (Università di Bologna / Freie Universität Berlin) Closing remarks.
 
 ---- 
 
-Coffee break 15:10 – 15:30 pm
+Coffee break 15:10 – 15:30
 {: .text-center .fw-bold}
 
 ----
 
-Being an Islander Documentary projection, 15:30 -16:30 pm
+15:30 - 16:30: _Being an Islander Documentary projection_ 
 
 ----
 
-**18:00 pm Dinner for speakers and key partners at the Olive Grove restaurant, Cambridge**
+**18:00pm Dinner for speakers and key partners at the Olive Grove restaurant, Cambridge**
 {: .text-center .fw-bold}
 
 ----
@@ -98,11 +98,11 @@ Being an Islander Documentary projection, 15:30 -16:30 pm
 ### 29 March 2023 Cyprus High Commission (11:30 am – 20:00 pm)
 {: .text-center .text-info .display-6 .text-info}
 
-11.30 High Commissioner’s welcome
+11.30am: _High Commissioner’s welcome_
 
-11:40-12:00 Andrew Shapland & Anastasia Christophilopoulou, introductions to the 2 exhibitions.
+11:40 - 12:00pm Andrew Shapland & Anastasia Christophilopoulou, _Introductions to the 2 exhibitions._
 
-12.00-13.00 Cyprian Broodbank (Disney Professor of Archaeology, University of Cambridge). 'Mediterranean islands in global perspective”.
+12.00 - 13.00: Cyprian Broodbank (Disney Professor of Archaeology, University of Cambridge). _'Mediterranean islands in global perspective'._
 
 ----
 
@@ -114,32 +114,35 @@ Being an Islander Documentary projection, 15:30 -16:30 pm
 ### Islands
 {: .lead .text-info}
 
-14:00-14:30. Polyxeni Adam Veleni (Director General of Antiquities, Greece)."Are the Euboeans islanders? Colonization in Northern Greece, an overview".
+14:00 - 14:30: Polyxeni Adam Veleni (Director General of Antiquities, Greece). _"Are the Euboeans islanders? Colonization in Northern Greece, an overview"._
 
-14:30-15:00. TBC.
+14:30 - 15:00: TBC.
 
-15:00-15:30 Francesco Muscolino (Director of the National Archaeological Museum Cagliari, Sardinia). “Insularity and Mediterranean networks in the collections of the National Archaeological Museum of Cagliari from prehistory to the contemporary age”.
+15:00 - 15:30: Francesco Muscolino (Director of the National Archaeological Museum Cagliari, Sardinia). _“Insularity and Mediterranean networks in the collections of the National Archaeological Museum of Cagliari from prehistory to the contemporary age”._
 
 ----
 
-Coffee break: 15:30-16:00
+Coffee break: 15:30 - 16:00
 {: .text-center .fw-bold}
 
 ----
 
-16:00 Knossos
+### Knossos 
+{: .lead .text-info }
 
-16:00-16:30 Stella Mandalaki, (Director, Heraklion Archaeological Museum) “"The Minoan Legacy of the Heraklion Archaeological Museum”
+16:00 - 16:30 Stella Mandalaki, (Director, Heraklion Archaeological Museum) _"The Minoan Legacy of the Heraklion Archaeological Museum”_
 
-16:30-17:00 Vasiliki Sythiakaki, Elisavet Kavoulaki, Maria Kladou, “Conservation, restoration and site management of the Palace of Knossos”.
+16:30 - 17:00: Vasiliki Sythiakaki, Elisavet Kavoulaki, Maria Kladou, _“Conservation, restoration and site management of the Palace of Knossos”_
 
-17:00-17:30 Rebecca Sweetman (Director,British School at Athens), “Early excavations at Knossos: women and an alternative perspective”.
+17:00 - 17:30: Rebecca Sweetman (Director,British School at Athens), _“Early excavations at Knossos: women and an alternative perspective”_
 
 ----
 
-17:30 pm reception and buffet dinner
+17:30: Reception and buffet dinner
+{: .text-center .fw-bold}
 
-20:00 pm close
+20:00: Close
+{: .text-center .fw-bold}
 
 ----
 
@@ -149,35 +152,35 @@ Coffee break: 15:30-16:00
 New Research at Knossos
 Venue: Headley Lecture Theatre, Ashmolean Museum
 
-10am registration
+10:00am: Registration
 
-10.10 Andrew Shapland introduction.
+10.10am: Andrew Shapland _Introduction_.
 
 ### Morning session: chair Stella Mandalaki
 {: .lead }
 
-10.20 Despina Ignatiadou, “Human versus hybrid. Theseus and the Minotaur in sculpture”.
+10.20: Despina Ignatiadou, _“Human versus hybrid. Theseus and the Minotaur in sculpture”._
 
-10.45 Eirini Galli and Kleanthis Sidiropoulos, “The epigram of Knossian Tharsymachos. A walk down memory lane”.
+10.45: Eirini Galli and Kleanthis Sidiropoulos, _“The epigram of Knossian Tharsymachos. A walk down memory lane”._
 
-11.10 Senta German, “Arthur Evans, Piet de Jong and Building of Modern Knossos”.
+11.10: Senta German, _“Arthur Evans, Piet de Jong and Building of Modern Knossos”._
 
 ----
 
-11.35 break
+11.35 - 12:00pm: Break
 {: .text-center .fw-bold}
 
 ----
 
-12.00 Katerina Kopaka (Emerita Professor of Prehistoric Archaeology, Department of History and Archaeology, University of Crete), “‘A guide to the ancient city of Knossos – the Palace of King Minos I – the Knossos Labyrinth’. A new manuscript of Minos Kalokairinos in the Historical Museum of Crete”
+12.00: Katerina Kopaka (Emerita Professor of Prehistoric Archaeology, Department of History and Archaeology, University of Crete), _‘A guide to the ancient city of Knossos – the Palace of King Minos I – the Knossos Labyrinth’. A new manuscript of Minos Kalokairinos in the Historical Museum of Crete'_
 
-12.25 Georgia Flouda (Head of Department of Prehistoric and Minoan Antiquities, Heraklion Archaeological Museum), Alessandro Greco (Professor, University of Sapienza) and Erika Notti ( Assistant Professor, Università Milan) “Exploring the materiality and epigraphy of Knossian Linear B tablets through 3D modelling and RTI: research objectives and results of the Pa-i-to Project”.
+12.25: Georgia Flouda (Head of Department of Prehistoric and Minoan Antiquities, Heraklion Archaeological Museum), Alessandro Greco (Professor, University of Sapienza) and Erika Notti ( Assistant Professor, Università Milan) _“Exploring the materiality and epigraphy of Knossian Linear B tablets through 3D modelling and RTI: research objectives and results of the Pa-i-to Project”_
 
-12.50 Katerina Athanasaki (Head of the Department of Exhibitions, Communication and Education, Heraklion Archaeological Museum), "Reproducing the Minoans: Travelling plaster copies, made in Crete (1900-1935)".
+12.50: Katerina Athanasaki (Head of the Department of Exhibitions, Communication and Education, Heraklion Archaeological Museum), _"Reproducing the Minoans: Travelling plaster copies, made in Crete (1900-1935)"_
 
 -----
 
-13.15 Lunch
+13.15: Lunch
 {: .text-center .fw-bold}
 
 -----
@@ -185,26 +188,26 @@ Venue: Headley Lecture Theatre, Ashmolean Museum
 ### Afternoon session: chair Vassiliki Sythiakaki
 {: .lead }
 
-14.30 Peter Tomkins (Postdoctoral Researcher, Department of Humanities, University of Catania), “Neolithic Knossos: from legacy excavations to histories of people and place”
+14.30: Peter Tomkins (Postdoctoral Researcher, Department of Humanities, University of Catania), _“Neolithic Knossos: from legacy excavations to histories of people and place”_
 
-14.55 Amy Bogaard (Professor of Neolithic and Bronze Age Archaeology, School of Archaeology, University of Oxford) and Valasia Isaakidou (Postdoctoral Researcher, School of Archaeology, University of Oxford), “Farming and food at Knossos: the long-term story”
+14.55: Amy Bogaard (Professor of Neolithic and Bronze Age Archaeology, School of Archaeology, University of Oxford) and Valasia Isaakidou (Postdoctoral Researcher, School of Archaeology, University of Oxford), _“Farming and food at Knossos: the long-term story”_
 
-15.20 John Pouncett, Knossos 3D model (title tbc)
+15.20: John Pouncett, Knossos 3D model (title tbc)
 
-15.45 Todd Whitelaw (Professor of Aegean Archaeology, UCL Institute of Archaeology), Maria Bredaki and Andonis Vasilakis (both Emeritus Ephors, Ephorate of Antiquities of Heraklion), “The Knossos Urban landscape Project: documenting the long-term development of the city”.
+15.45: Todd Whitelaw (Professor of Aegean Archaeology, UCL Institute of Archaeology), Maria Bredaki and Andonis Vasilakis (both Emeritus Ephors, Ephorate of Antiquities of Heraklion), _“The Knossos Urban landscape Project: documenting the long-term development of the city”._
 
 -----
 
-16.10 break
+16.10: Break
 {: .text-center .fw-bold}
 
 -----
 
-16.40 Colin Macdonald (British School at Athens), “Excavating Evans and Hogarth: the contribution of the SW Houses excavations (1992-1993, 1995) to Knossian prehistory”.
+16.40: Colin Macdonald (British School at Athens), _“Excavating Evans and Hogarth: the contribution of the SW Houses excavations (1992-1993, 1995) to Knossian prehistory”._
 
-17.05 Maria Roussaki (Archaeologist, Ephorate of Antiquities of Heraklion), “A new Minoan Fresco from Knossos: ‘The Swallows Fresco’”.
+17.05: Maria Roussaki (Archaeologist, Ephorate of Antiquities of Heraklion), _“A new Minoan Fresco from Knossos: ‘The Swallows Fresco’”._
 
-17.30 Vassiliki Sythiakaki (Director, Ephorate of Antiquities of Heraklion), “Early Byzantine Knossos. Attempting a re-examination”.
+17.30: Vassiliki Sythiakaki (Director, Ephorate of Antiquities of Heraklion), _“Early Byzantine Knossos. Attempting a re-examination”._
 
 ----
 
