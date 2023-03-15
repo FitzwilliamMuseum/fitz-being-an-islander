@@ -85,4 +85,6 @@ in 2021 we developed Being an Islander related content within our formal learnin
 
 - Professor Paul Cartledge and Dr Anastasia Christophilopoulou narrated the history of the city of Salamis, Cyprus and of the antiquities from the region now housed in the Fitzwilliam Museum in this video
 
-<iframe class="ratio ratio-16x9" src="https://www.youtube.com/embed/mOEqLlBaVPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="ratio ratio-16x9">
+<iframe src="https://www.youtube.com/embed/mOEqLlBaVPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
