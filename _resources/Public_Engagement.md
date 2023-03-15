@@ -56,11 +56,14 @@ in 2021 we developed Being an Islander related content within our formal learnin
 
 - Alongside developing virtual learning resources, the Museum’s Learning Department worked with the Being an Islander project on a refreshed onsite school workshop to introduce pupils to ancient Greece.  Following suspension due to COVID, the new sessions launched in October 2021, and in the first 2 months of delivery reached 284 KS2 children (and 32 teachers). This was across 11 sessions and 8 schools. Teachers have responded positively. All survey respondents strongly agree that ‘the delivery of the session I attended was appropriate for my pupils' learning needs; allowed time to share their ideas; encouraged pupils to look closely at museum objects or paintings and to form their own interpretation; The content of the session I attended sufficiently addressed the objectives for the visit.’   Teachers wrote in the survey:
 
-    > "The children loved it and it was so enriching for their learning!"
+> "The children loved it and it was so enriching for their learning!"
+{: .blockquote }
 
-    > "I thought the session was well prepared and impressively displayed…. It was a wonderful experience for the learners and we will be back, for sure!"
+> "I thought the session was well prepared and impressively displayed…. It was a wonderful experience for the learners and we will be back, for sure!"
+{: .blockquote }
 
-    > "The session with the museum staff was great. They were fantastic with the children… looking in depth at the pots and the other items that we did was equally beneficial and most of it picked up work that we had done in the classroom and allowed children to see real artefacts and make the links to their prior learning. We had a great day and the children all really enjoyed their visit. I had a few messages from parents on Friday evening to say how much the children had enjoyed it and that they were still buzzing about it when they got home. Thank you for a wonderful day out."
+> "The session with the museum staff was great. They were fantastic with the children… looking in depth at the pots and the other items that we did was equally beneficial and most of it picked up work that we had done in the classroom and allowed children to see real artefacts and make the links to their prior learning. We had a great day and the children all really enjoyed their visit. I had a few messages from parents on Friday evening to say how much the children had enjoyed it and that they were still buzzing about it when they got home. Thank you for a wonderful day out."
+{: .blockquote }
 
 - Another key area of our education delivery for 2021 was the creation of high-quality replicas of key objects from our Cyprus and Crete ancient collections, which made for the starting point of delivery of outreach sessions in the school context of the community. The replicas, paired with the already developed strands of the project’s research, such as the themes of insularity and mobility, have also supported our health and wellbeing, initiative as part of this project, as well as across the Museum.  An important example is the delivery of outreach sessions employing those replicas and their accompanying narratives to long -term patients at Addenbrookes University Hospitals, children, and adults’ wards.
 
@@ -80,4 +83,6 @@ in 2021 we developed Being an Islander related content within our formal learnin
 
 - Object pottery and metalware handling session by the project’s curator and conservators for the Alumni Festival on September 27, 2019 (40 participants).
 
-- Professor Paul Cartledge and Dr Anastasia Christophilopoulou narrated the history of the city of Salamis, Cyprus and of the antiquities from the region now housed in the Fitzwilliam Museum in this video: <https://www.youtube.com/watch?v=mOEqLlBaVPY>
+- Professor Paul Cartledge and Dr Anastasia Christophilopoulou narrated the history of the city of Salamis, Cyprus and of the antiquities from the region now housed in the Fitzwilliam Museum in this video
+
+<iframe class="ratio ratio-16x9" src="https://www.youtube.com/embed/mOEqLlBaVPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
