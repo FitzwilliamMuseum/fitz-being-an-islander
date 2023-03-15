@@ -1,33 +1,11 @@
-<!-- JS, Popper.js, and jQuery -->
-<script
-  src="https://code.jquery.com/jquery-3.6.0.min.js"
-  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-  crossorigin="anonymous"></script>
+<!-- JS -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"  crossorigin="anonymous"></script><!-- Back to top script -->
 <script src="{{site.baseurl}}/js/backtotop.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js" integrity="sha512-Y2IiVZeaBwXG1wSV7f13plqlmFOx8MdjuHyYFVoYzhyRr3nH/NMDjTBSswijzADdNzMyWNetbLMfOpIPl6Cv9g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
+<script src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.3/dist/index.bundle.min.js"></script>
 
 <!-- Cookie management -->
 <script defer type="text/javascript" src="{{site.baseurl}}/js/config.js"></script>
 <script defer type="text/javascript" src="{{site.baseurl}}/js/klaro.js"></script>
 <!-- End of body -->
 
-
 <script>
-$(function () {
-  $('[data-toggle="popover"]').popover()
-});
-$('.popover-dismiss').popover({
-  trigger: 'focus'
-});
-$(document).on('click', '[data-toggle="lightbox"]', function(event) {
-  event.preventDefault();
-  $(this).ekkoLightbox(
-  {
-    showArrows: false,
-    gallery: 'gallery',
-  }
-  );
-});
-</script>
