@@ -1010,3 +1010,12 @@ a.nav-link {
 a.anchor {
 scroll-margin-top:100px;
 }
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+td {
+  text-align: center;
+  vertical-align: middle;
+}

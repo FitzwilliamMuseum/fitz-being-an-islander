@@ -42,6 +42,14 @@ Since 2019, the project has implemented over 100 public engagement actions, even
 
  - Our Learning associates Sarah-Cate Blake and Nathan Huxtable created an activity titled ‘Earth painting’ for the Museum’s Muse group, which ran during May2023. The project included visits to the Islanders exhibition to sketch ideas, and then using a limited earth palette. Participants created watercolour concertina sketchbooks.
 
+<center>
+<figure>
+    <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/level-b-panoramic2.jpg"
+         height="250"
+         alt="">
+</figure>
+</center>
+<br>
 
  **In 2022**
 
@@ -63,6 +71,58 @@ Since 2019, the project has implemented over 100 public engagement actions, even
 - Between May – June 2022 , we also worked in close collaboration with visual artist Yorgos Petrou and his project ‘Dust and Butterflies’ (funded by the Arts Council England and supported by the Being an Islander project). The project consists of an experimental art film that celebrates the creative histories to emerge from the MENA region, past and present. Working with four queer migrants from Cyprus, Lebanon, Palestine, and Egypt, Petrou devised a performance-to-camera responding to the Fitzwilliam Museum’s collection of artefacts from the same region. Performers recited poetry and performed movements in the gallery space inspired by the objects surrounding them, transforming the museum into a site of creativity and celebration. Petrou filmed the performance over two days at the museum, to create a short film that celebrates the interconnectivity and complexity of life as a migrant in the UK, from a uniquely queer and artistic perspective, grounded in the historical context the museum provides. The resultant film was screened in London, at the Cubitt Gallery, July 2023.
 
 - Dr Christophilopoulou and Dr Giulia Muti organised and run 3 specialised workshops for the above group. Workshops were held at the Fitzwilliam Museum on May 9, 23 and 13th of June, from 10:00 to 4:00 pm ( 10 participants in total including Fitzwilliam Museum members of staff). The three sessions incorporated handling of Near Eastern objects.
+
+<center>
+<table class="center">
+<tr>
+<td>
+<figure>
+    <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/sifnos_event9.jpg"
+         height="250"
+         alt="">
+</figure>
+</td>
+<td>
+<figure>
+    <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/documentary_community.jpg"
+         height="250"
+         alt="">
+</figure>
+</td>
+<td>
+<figure>
+    <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/ore03128-web-hi.jpg"
+         height="250"
+         alt="">
+</figure>
+</td>
+</tr>
+<tr>
+<td>
+<figure>
+    <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/aphrodites-sisters.jpg"
+         height="250"
+         alt="">
+</figure>
+</td>
+<td>
+<figure>
+    <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/img_9569.jpg"
+         height="250"
+         alt="">
+</figure>
+</td>
+<td>
+<figure>
+    <img src="https://fitz-cms-images.s3.eu-west-2.amazonaws.com/db4.jpg"
+         height="250"
+         alt="">
+</figure>
+</td>
+</tr>
+</table>
+</center>
+<br>
 
 **In 2021**
 
