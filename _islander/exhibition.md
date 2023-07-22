@@ -25,24 +25,27 @@ images:
         caption: "Islanders: exhibition section on Ancient Island economy and food practices"
 ---
 
-<center>★★★★★</center>
-<center>"Spellbinding… calling to mind Picasso and Brancusi at every turn."<br>
-— The Observer</center>
-<br>
-<center>★★★★</center>
-<center>"Many pieces have never ventured overseas… lovers of the ancient world should seize this chance."<br>
-— The Times</center>
-<br>
-<center>
-"There’s much to admire"<br>
+★★★★★
+{: .text-center .text-info .display-4 }
+
+"Spellbinding… calling to mind Picasso and Brancusi at every turn."   
+— The Observer  
+{: .text-center }
+
+★★★★
+{: .text-center .text-info .display-4 }
+
+"Many pieces have never ventured overseas… lovers of the ancient world should seize this chance."  
+— The Times
+{: .text-center }
+
+"There’s much to admire"  
 — The Telegraph
-</center>
-<br>
-<center>
-"Revelatory"<br>
-— The Week
-</center>
-<br><br>
+{: .text-center }
+
+"Revelatory"  
+— The Week  
+{: .text-center }
 
 This major free exhibition was hosted at the Fitzwilliam Museum between 24 February 2023 and the 4 June 2023. It brought together extraordinary loans examining the unique identity of islanders, transporting visitors to 6,000 years of island life and history from the ancient Mediterranean to today.
 
