@@ -8,12 +8,14 @@
    <div class="container row mx-auto">
   {% for image in page.images %}
     <div class="col-md-{{cols}} h-100">​
+      <center>
       <figure class="figure">
         <a href="{{ image.file }}" data-toggle="lightbox" data-gallery="images">
-        <img src="{{ image.file }}" class="img-fluid img-thumbnail" alt="{{image.caption}}">
+        <img src="{{ image.file }}" class="img-fluid img-fluid-same-size img-thumbnail" alt="{{image.caption}}" />
         </a>
         <figcaption class="figure-caption text-info">{{ image.caption }}</figcaption>
       </figure>
+      </center>
     </div>
   {% endfor %}
   </div>

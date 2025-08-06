@@ -14,7 +14,9 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-x64-mingw32)
     ffi (1.15.5)
+    ffi (1.15.5-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
     html-pipeline (2.14.3)
@@ -65,10 +67,6 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    minima (2.5.1)
-      jekyll (>= 3.5, < 5.0)
-      jekyll-feed (~> 0.9)
-      jekyll-seo-tag (~> 2.1)
     minitest (5.18.0)
     nokogiri (1.14.3-x86_64-darwin)
       racc (~> 1.4)
@@ -86,14 +84,20 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
+    sassc (2.4.0-x64-mingw32)
+      ffi (~> 1.9)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
+    tzinfo-data (1.2023.3)
+      tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
+    wdm (0.1.1)
     webrick (1.8.1)
 
 PLATFORMS
+  x64-mingw32
   x86_64-darwin-20
   x86_64-linux
 
@@ -102,9 +106,9 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-mentions
   jekyll-paginate
+  jekyll-seo-tag
   jekyll-sitemap
   jemoji
-  minima (~> 2.5)
   nokogiri
   tzinfo (~> 2.0)
   tzinfo-data
@@ -112,4 +116,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.3.3
+   2.4.17
